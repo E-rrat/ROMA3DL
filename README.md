@@ -1,4 +1,4 @@
-# ROMA3DL (robot manipulateur à 3 degré de liberté)
+# ROMA3DL (Robot Manipulateur à 3 Degré de Liberté)
 
 # description:
 <img align="left" src= "https://github.com/user-attachments/assets/154af356-2c76-46a7-96c6-b7c4813c096e" alt="ROMA3DL" width="30%" />
