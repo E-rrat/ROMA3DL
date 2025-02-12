@@ -7,18 +7,18 @@ ROMA3DL est un bras robotique a trois degré de liberté convut pour deplacer le
 
 # Sommaire
 
-[I. Qui sommes-nous ?](#i-Qui-sommes-nous?)
+[I. Qui sommes-nous ?](#i-Qui-sommes-nous-)
 
 [II. Objectifs projet ](#ii-Objectif-du-projet)
 
 [III. Fonctionnalités](#iii-Fonctionnalités)
 
-[IV. Liste du matériel](#iv-Liste-de-matériel)
+[IV. Liste de matériel](#iv-Liste-de-matériel)
 
 [V. Déroulement ](#v-Déroulement)
-  [esquise](#1-Esquise)
-  [modèle 3D](#2-Modèle-3D)
-  [codes](#3-Codes)
+  [1. esquise](#1-Esquise)
+  [2. modèle 3D](#2-Modèle-3D)
+  [3. codes](#3-Codes)
 
 [VII. Licence](#vii-Licence)
 
@@ -27,7 +27,7 @@ ROMA3DL est un bras robotique a trois degré de liberté convut pour deplacer le
 [X. Remerciements](#x-Remerciements)
 
 
-## I. Qui sommes-nous?
+## I. Qui sommes-nous ?
 ## II. Objectif du projet
 ## III. Fonctionnalités 
 ## IV. Liste de matériel 
