@@ -23,11 +23,11 @@ ROMA3DL est un bras robotique a trois degré de liberté convut pour deplacer le
   
   [3. codes](#3-Codes)
 
-[VI. Licence](#vii-Licence)
+[VI. Licence](#vi-Licence)
 
-[VII. Contributions](#ix-Contributions)
+[VII. Contributions](#vii-Contributions)
 
-[VIII. Remerciements](#x-Remerciements)
+[VIII. Remerciements](#viii-Remerciements)
 
 
 ## I. Qui sommes-nous ?
