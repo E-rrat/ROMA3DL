@@ -7,34 +7,34 @@ ROMA3DL est un bras robotique a trois degré de liberté convut pour deplacer le
 
 # Sommaire
 
-[I. Qui sommes-nous ?](#i-Qui-sommes-nous-)
+[I. Qui sommes-nous ?](#i-Qui-sommes-nous?)
 
-[II. Objectifs projet ](#ii-Objectif-du-projet-)
+[II. Objectifs projet ](#ii-Objectif-du-projet)
 
-[III. Fonctionnalités](#iii-fonctionnalités)
+[III. Fonctionnalités](#iii-Fonctionnalités)
 
-[IV. Liste du matériel](#iv-liste-du-matériel-)
+[IV. Liste du matériel](#iv-Liste-de-matériel)
 
-[V. Déroulement ](#v-derouement)
-  [esquise](#1-esquise)
-  [modèle 3D](#2-modèle-3D)
-  [codes](#3-codes)
+[V. Déroulement ](#v-Déroulement)
+  [esquise](#1-Esquise)
+  [modèle 3D](#2-Modèle-3D)
+  [codes](#3-Codes)
 
-[VII. Licence](#vii-licence)
+[VII. Licence](#vii-Licence)
 
-[IX. Contributions](#ix-contributions)
+[IX. Contributions](#ix-Contributions)
 
-[X. Remerciements](#x-remerciements)
+[X. Remerciements](#x-Remerciements)
 
 
 ## I. Qui sommes-nous?
 ## II. Objectif du projet
-## III. fonctionnalités 
-## IV. liste de matériel 
-## V.  déroulement 
-  ### 1. esquise
-  ### 2. modèle 3D
-  ### 3. codes
-## VI. licence
-## VII. contributions
-## IX remerciement
+## III. Fonctionnalités 
+## IV. Liste de matériel 
+## V.  Déroulement 
+  ### 1. Esquise
+  ### 2. Modèle 3D
+  ### 3. Codes
+## VI. Licence
+## VII. Contributions
+## IX Remerciements
