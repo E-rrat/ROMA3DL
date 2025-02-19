@@ -42,6 +42,10 @@ En deuxième année de classe préparation au cyle ingenieur à eseo-cours lumi�
 ## II. Objectif du projet
 ## III. Fonctionnalités 
 ## IV. Liste de matériel 
+| **Système**             | **materiel (arduino)**                            | **utilité**                                        |
+|-------------------------|---------------------------------------------------|-----------------------------------------------|
+|🖥️**Microcontrôleur**    | arduino Mega                                      |
+
 ## V.  Déroulement 
   ### 1. Esquis
   ### 2. Modèle 3D
