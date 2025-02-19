@@ -35,7 +35,8 @@ Les élèves de la deuxième année de classe préparatoire au cycle d'ingénieu
 <br>
 ou 
 <br>
-En deuxième année de classe préparation au cyle ingenieur a eseo-cours lumière au **TOGO** nus devons a la fin des deux années realiser un projet pour mettre en pratique toute les competance acquis au cour des deux années. accompagner de mes camarades **AGBOKOU Guillaume,AKPAH Starker,BADJA Jules,BANIZA Emmanuel, BANKA Wilfried,COQUEREL Michel, DOUMBIA Aïchata GOUDOU Ariel et KORDOHOU Errath** avons décidé pour mettre en pratique les competance acquise en mecanique, en electronique et en modelisation3D. 
+En deuxième année de classe préparation au cyle ingenieur a eseo-cours lumière au **TOGO** nus devons a la fin des deux années realiser un projet pour mettre en pratique toute les competance acquis au cour des deux années. accompagner de mes camarades **AGBOKOU Guillaume,AKPAH Starker,BADJA Jules,BANIZA Emmanuel, BANKA Wilfried,COQUEREL Michel, DOUMBIA Aïchata GOUDOU Ariel et KORDOHOU Errath** avons décidé pour mettre en pratique les competance acquise en mecanique, en electronique et en modelisation3D de realiser ce projet intituler **ROMA3DL** qui est un robot manipulateur comander par la voix
+
 ## II. Objectif du projet
 ## III. Fonctionnalités 
 ## IV. Liste de matériel 
