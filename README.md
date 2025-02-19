@@ -22,7 +22,7 @@ ROMA3DL est un bras robotique a trois degrés de libertés conçut pour déplace
 
 [V. Déroulement ](#v-Déroulement)
 
-  [1. esquise](#1-Esquise)
+  [1. Esquis](#1-Esquis)
   
   [2. modèle 3D](#2-Modèle-3D)
   
@@ -43,7 +43,7 @@ En deuxième année de classe préparation au cyle ingenieur à eseo-cours lumi�
 ## III. Fonctionnalités 
 ## IV. Liste de matériel 
 ## V.  Déroulement 
-  ### 1. Esquise
+  ### 1. Esquis
   ### 2. Modèle 3D
   ### 3. Codes
 ## VI. Licence
