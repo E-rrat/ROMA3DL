@@ -31,7 +31,9 @@ ROMA3DL est un bras robotique a trois degré de liberté convut pour deplacer le
 
 
 ## I. Qui sommes-nous ?
-Les élèves de la deuxième année de classe préparatoire au cycle d'ingénieur à eseo doivent realiser un projet a la fin des deux ans de prepa pour mettre en pratique les competance aquis en 2 ans. ROMA3DL est un projet de robotique qui permettra de mettre en pratique les competance aquise en physique ,electronique,modelisation3D etc... 
+Les élèves de la deuxième année de classe préparatoire au cycle d'ingénieur à eseo doivent realiser un projet a la fin des deux ans de prepa pour mettre en pratique les competance aquis en 2 ans. ROMA3DL est un projet de robotique qui permettra de mettre en pratique les competance aquise en physique ,electronique,modelisation3D etc...
+ou 
+En deuxième année de classe préparation au cyle ingenieur a eseo-cours lumière au **TOGO** nus devons a la fin des deux années realiser un projet pour mettre en pratique toute les competance acquis au cour des deux années. accompagner de mes camarades **AGBOKOU Guillaume,AKPAH Starker,BADJA Jules,BANIZA Emmanuel, BANKA Wilfried,COQUEREL Michel, DOUMBIA Aïchata GOUDOU Ariel et KORDOHOU Errath** avons décidé pour mettre en pratique les competance acquise en mecanique, en electronique et en modelisation3D. 
 ## II. Objectif du projet
 ## III. Fonctionnalités 
 ## IV. Liste de matériel 
