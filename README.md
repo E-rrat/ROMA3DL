@@ -2,7 +2,7 @@
 
 # description:
 <img align="left" src= "https://github.com/user-attachments/assets/154af356-2c76-46a7-96c6-b7c4813c096e" alt="ROMA3DL" width="30%" />
-ROMA3DL est un bras robotique a trois degré de liberté convut pour deplacer les objets il sera doté d'une commande voval permattant de la comander.
+ROMA3DL est un bras robotique a trois degrés de libertés concut pour déplacer les objets il sera doté d'une commande vocal permattant de la commander.
 <br><br><br><br><br><br><br><br><br><br><br>
 
 # Sommaire
@@ -31,11 +31,11 @@ ROMA3DL est un bras robotique a trois degré de liberté convut pour deplacer le
 
 
 ## I. Qui sommes-nous ?
-Les élèves de la deuxième année de classe préparatoire au cycle d'ingénieur à eseo doivent realiser un projet a la fin des deux ans de prepa pour mettre en pratique les competance aquis en 2 ans. ROMA3DL est un projet de robotique qui permettra de mettre en pratique les competance aquise en physique ,electronique,modelisation3D etc...
+Les élèves de la deuxième année de classe préparatoire au cycle d'ingénieur à eseo doivent realiser un projet à la fin des deux ans de prépa pour mettre en pratique les compétances aquise pendant les 2 ans. ROMA3DL est un projet de robotique qui permettra de mettre en pratique les compétances aquise en physique ,élèctronique,modelisation3D etc...
 <br>
 ou 
 <br>
-En deuxième année de classe préparation au cyle ingenieur a eseo-cours lumière au **TOGO** nous devons à la fin des deux années réaliser un projet pour mettre en pratique toute les compétences acquise au cour des deux années. Accompagner de mes camarades **AGBOKOU Guillaume,AKPAH Starker,BADJA Jules,BANIZA Emmanuel, BANKA Wilfried,COQUEREL Michel, DOUMBIA Aïchata GOUDOU Ariel et KORDOHOU Errath** avons décidé pour mettre en pratique les compétences acquise en mecanique, en electronique et en modelisation3D de realiser ce projet intituler **ROMA3DL** qui est un robot manipulateur comander par la voix
+En deuxième année de classe préparation au cyle ingenieur à eseo-cours lumière au **TOGO** nous devons à la fin des deux années réaliser un projet pour mettre en pratique toutes les compétences acquise au cour des deux années. Accompagner de mes camarades **AGBOKOU Guillaume,AKPAH Starker,BADJA Jules,BANIZA Emmanuel, BANKA Wilfried,COQUEREL Michel, DOUMBIA Aïchata GOUDOU Ariel et KORDOHOU Errath** avons décidé pour mettre en pratique les compétences acquise en mécanique, en élèctronique et en modelisation3D de realiser ce projet intituler **ROMA3DL** qui est un robot manipulateur comander par la voix
 
 ## II. Objectif du projet
 ## III. Fonctionnalités 
