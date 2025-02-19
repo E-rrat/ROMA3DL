@@ -32,7 +32,7 @@ ROMA3DL est un bras robotique a trois degrés de libertés conçut pour déplace
 
 ## I. Qui sommes-nous ?
 
-En deuxième année de classe préparation au cyle ingenieur à eseo-cours lumière au **TOGO** nous devons à la fin des deux années réaliser un projet pour mettre en pratique toutes les compétences acquise au cour des deux années. Accompagner de mes camarades **AGBOKOU Guillaume,AKPAH Starker,BADJA Jules,BANIZA Emmanuel, BANKA Wilfried,COQUEREL Michel, DOUMBIA Aïchata GOUDOU Ariel et KORDOHOU Errath** avons décidé pour mettre en pratique les compétences acquise en mécanique, en élèctronique et en modelisation3D de realiser ce projet intituler **ROMA3DL** qui est un robot manipulateur comander par la voix
+En deuxième année de classe préparation au cyle ingenieur à eseo-cours lumière au **TOGO** nous devons à la fin des deux années réaliser un projet pour mettre en pratique toutes les compétences acquise au cour des deux années. Accompagner de mes camarades **AGBOKOU Guillaume,AKPAH Starker,BADJA Jules,BANIZA Emmanuel, BANKA Wilfried,COQUEREL Michel, DOUMBIA Aïchata GOUDOU Ariel et KORDOHOU Errath** avons décidé pour mettre en pratique les compétences acquise en mécanique, en élèctronique et en modelisation3D de realiser ce projet intituler **ROMA3DL** qui est un robot manipulateur commander par la voix
 
 ## II. Objectif du projet
 ## III. Fonctionnalités 
