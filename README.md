@@ -44,7 +44,7 @@ En deuxième année de classe préparation au cyle ingenieur à eseo-cours lumi�
 ## IV. Liste de matériel 
 | **Système**             | **materiel (arduino)**                            | **utilité**                                        |
 |-------------------------|---------------------------------------------------|-----------------------------------------------|
-|🖥️**Microcontrôleur**    | arduino Mega                                      |
+|🖥️**Microcontrôleur**    | arduino Mega                                      |Rélier les différents composants du circuit |
 
 ## V.  Déroulement 
   ### 1. Esquis
