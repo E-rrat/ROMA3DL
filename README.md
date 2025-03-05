@@ -45,7 +45,7 @@ En deuxième année de classe préparation au cyle ingenieur à eseo-cours lumi�
 | **Système**             | **materiel (arduino)**                            | **utilité**                                        |
 |-------------------------|---------------------------------------------------|-----------------------------------------------|
 |🖥️**Microcontrôleur**    | arduino Mega                                      |Rélier les différents composants du circuit |
-|🖥️**Microcontrôleur**   |contrôleur PCB                                      |  Controler le bras |
+|🖥**Circuit intégré**   |contrôleur PCB                                      |  Controler le bras roboiquer |
 
 ## V.  Déroulement 
   ### 1. Esquis
