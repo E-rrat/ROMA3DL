@@ -1,6 +1,6 @@
 # ROMA3DL (Robot Manipulateur à 3 Degré de Liberté)
 
-# <u>Description:</u>
+# Description:
 <img align="left" src= "https://github.com/user-attachments/assets/154af356-2c76-46a7-96c6-b7c4813c096e" alt="ROMA3DL" width="30%" />
 
 
@@ -12,7 +12,7 @@ ROMA3DL est un bras robotique à trois degrés de liberté conçu pour offrir un
 L’objectif principal de ce projet est de permettre aux étudiants d’explorer les concepts fondamentaux de la robotique et de l’automatisation en développant un système fonctionnel et interactif.
 <br><br><br><br><br><br><br><br><br><br><br>
 
-#__Sommaire__  
+# Sommaire  
 
 [I. Qui sommes-nous ?](#i-Qui-sommes-nous-)
 
@@ -41,7 +41,7 @@ L’objectif principal de ce projet est de permettre aux étudiants d’explorer
 
 Dans le cadre de notre deuxième année de classe préparatoire au cycle ingénieur à ***l'ESEO-Cours Lumière au Togo***, nous devons réaliser un projet de fin d’études visant à mettre en application l’ensemble des compétences acquises au cours de ces deux années.
 
-Accompagnés de mes camarades ***AGBOKOU Guillaume***, ***AKPAH Starker***, ***BADJA Jules***, ***BANIZA Emmanuel***, ***BANKA Wilfried***, ***COQUEREL Michel***, ***DOUMBIA Aïchata***, ***GOUDOU Ariel*** et ***KORDOHOU Errath***, nous avons choisi de développer un projet intitulé ***ROMA3DL***. Ce projet consiste en la conception et la réalisation d’un robot manipulateur commandé par la voix, intégrant des compétences en mécanique, en électronique et en modélisation 3D.
+Nous sommes : ***AGBOKOU Guillaume***, ***AKPAH Starker***, ***BADJA Jules***, ***BANIZA Emmanuel***, ***BANKA Wilfried***, ***COQUEREL Michel***, ***DOUMBIA Aïchata***, ***GOUDOU Ariel*** et ***KORDOHOU Errath***, nous avons choisis de développer un projet intitulé ***ROMA3DL***. Ce projet consiste en la conception et la réalisation d’un robot manipulateur commandé par la voix, intégrant des compétences en mécanique, en électronique et en modélisation 3D.
 
 Ce projet représente pour nous une opportunité de mettre en pratique nos connaissances et d’acquérir une expérience concrète en ingénierie.
 ## II. Objectif du projet
