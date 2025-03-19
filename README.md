@@ -43,11 +43,8 @@ Ce projet représente pour nous une opportunité de mettre en pratique nos conna
 **ROMA3DL**  nous permets une immersion concrète dans la robotique en mettant en pratique leurs connaissances en cinématique, mécanique, électronique et informatique. En concevant un bras robotique à trois degrés de liberté doté d'une commande vocale, ils apprennent à modéliser en CAO(Conception Assistée par Ordinateur), à choisir les moteurs et capteurs adaptés, à programmer des microcontrôleurs et à intégrer des solutions de communication sans fil. Ce projet multidisciplinaire renforce leur autonomie, le travail en équipe et leur capacité à gérer un projet complexe, les préparant ainsi efficacement à leur future carrière d'ingénieur au sein d'écoles prestigieuses comme l'**ESEO**.
 ## III. Fonctionnalités
 <br>✅ **Commande vocale**  – Contrôle du bras par des ordres simples via Bluetooth/Wi-Fi.</br>
-<br>✅ **Mouvements précis**  – Articulations motorisées pour des déplacements fluides.</br>
 <br>✅ **Saisie et manipulation d’objets** – Pince robotisée avec capteurs pour ajuster la prise.</br>
 <br>✅ **Contrôle à distance**  – Pilotage via application mobile ou PC.</br>
-<br>✅ **Programmation des mouvements** – Enregistrement et reproduction automatique des actions.</br>
-<br>✅ **Capteurs intelligents**  – Amélioration de la précision avec encodeurs, capteurs de distance ou caméra.</br>
 ## IV. Liste de matériel 
 | **Systhémes**             | **materiel (arduino)**                            | **utilité**                                        |
 |-------------------------|---------------------------------------------------|-----------------------------------------------|
