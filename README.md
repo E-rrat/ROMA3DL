@@ -7,7 +7,7 @@
 
 
 
-ROMA3DL est un bras robotique á trois degrés de libertés conçut pour déplacer les objets il sera doté d'une commande vocal permattant de la commander.
+ROMA3DL est un bras robotique à trois degrés de liberté conçu pour manipuler et déplacer des objets avec précision. Il sera doté d’une commande vocale, offrant une interaction intuitive et facilitant son utilisation dans divers contextes.
 <br><br><br><br><br><br><br><br><br><br><br>
 
 # Sommaire 
