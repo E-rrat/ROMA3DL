@@ -7,7 +7,9 @@
 
 
 
-ROMA3DL est un bras robotique à trois degrés de liberté conçu pour manipuler et déplacer des objets avec précision. Il sera doté d’une commande vocale, offrant une interaction intuitive et facilitant son utilisation dans divers contextes.
+ROMA3DL est un bras robotique à trois degrés de liberté conçu pour offrir une solution polyvalente en matière de manipulation d’objets. Il s’inscrit dans le cadre d’un projet de fin d’année destiné aux étudiants en deuxième année de classes préparatoires, combinant des aspects de conception mécanique, d’électronique et de programmation.
+
+L’objectif principal de ce projet est de permettre aux étudiants d’explorer les concepts fondamentaux de la robotique et de l’automatisation en développant un système fonctionnel et interactif.
 <br><br><br><br><br><br><br><br><br><br><br>
 
 # Sommaire 
@@ -51,8 +53,8 @@ Ce projet représente pour nous une opportunité de mettre en pratique nos conna
 |🖥️**Microcontrôleur**    | Arduino Mega                                      |Rélier les différents composants du circuit |
 |📟**Circuit intégré**   |Contrôleur PCB                                      |  |
 |🦼**Moteur**  |   servocontroleur PCB,servomoteur MG90S,servomoteur MG996R |permet de creer le mouvement, réduit la vitesse et l'augmente |
-              
-              
+| 🔋**Baterrie**| 14 volt et 9 volt | alimenter  le microcontroleur |            
+| 📳**module Bluetooth** | HC-05    | Envoyer des commandes vocales depuis une application mobile|         
 ## V.  Déroulement 
   ### 1. Esquis
   ### 2. Modèle 3D
