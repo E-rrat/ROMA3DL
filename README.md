@@ -46,7 +46,7 @@ En deuxième année de classe préparation au cyle ingenieur à eseo-cours lumi�
 | **Systhémes**             | **materiel (arduino)**                            | **utilité**                                        |
 |-------------------------|---------------------------------------------------|-----------------------------------------------|
 |🖥️**Microcontrôleur**    | Arduino Mega                                      |Rélier les différents composants du circuit |
-|📟**Circuit intégré**   |Contrôleur PCB                                      |  Controler le bras roboiquer |
+|📟**Circuit intégré**   |Contrôleur PCB                                      |  |
 |🦼**Moteur**  |   servocontroleur PCB,servomoteur MG90S,servomoteur MG996R |permet de creer le mouvement, réduit la vitesse et l'augmente |
               
               
