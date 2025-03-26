@@ -38,7 +38,7 @@ Dans le cadre de notre deuxième année de classe préparatoire au cycle ingéni
 
 Nous sommes : ***AGBOKOU Guillaume***, ***AKPAH Starker***, ***BADJA Jules***, ***BANIZA Emmanuel***, ***BANKA Wilfried***, ***COQUEREL Michel***, ***DOUMBIA Aïchata***, ***GOUDOU Ariel*** et ***KORDOHOU Errath***, nous avons choisis de développer un projet intitulé ***ROMA3DL***. Ce projet consiste en la conception et la réalisation d’un robot manipulateur commandé par la voix, intégrant des compétences en mécanique, en électronique et en modélisation 3D.
 
-Ce projet représente pour nous une opportunité de mettre en pratique nos connaissances et d’acquérir une expérience concrète en ingénierie.
+Ce projet représente pour nous une opportunité de mettre en pratique nos connaissances et d’acquérir une expérience concrète en  ingénierie.
 ## II. Objectif du projet
 **ROMA3DL**  nous permets une immersion concrète dans la robotique en mettant en pratique leurs connaissances en cinématique, mécanique, électronique et informatique. En concevant un bras robotique à trois degrés de liberté doté d'une commande vocale, ils apprennent à modéliser en CAO(Conception Assistée par Ordinateur), à choisir les moteurs et capteurs adaptés, à programmer des microcontrôleurs et à intégrer des solutions de communication sans fil. Ce projet multidisciplinaire renforce leur autonomie, le travail en équipe et leur capacité à gérer un projet complexe, les préparant ainsi efficacement à leur future carrière d'ingénieur au sein d'écoles prestigieuses comme l'**ESEO**.
 ## III. Fonctionnalités
