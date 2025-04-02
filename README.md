@@ -1,7 +1,7 @@
 # ROMA3DL (Robot Manipulateur à 3 Degré de Liberté)
 
 # Description:
-<img align="down" src= "https://github.com/user-attachments/assets/154af356-2c76-46a7-96c6-b7c4813c096e" alt="ROMA3DL" width="30%" />
+<img align="down" src= "https://github.com/user-attachments/assets/https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22WhatsApp%20Image%202025-04-02%20%C3%A0%2015.55.16_a941f6f1.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-01T16%3A13%3A32.288Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F9e90bb65935d47ba%2FWhatsApp%2520Image%25202025-04-02%2520%25C3%25A0%252015.55.16_a941f6f1.jpg%3FExpires%3D1838218412%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DdmJjfVDS3HXkhFL0dqBSy3eemCuvid9XEjnMJo~J3mYhjCXJRdjixlTtUJGDc0DHWgvinlxtMRY8blY8YMaupDa6CxjqNt0eo1YWG8DkLcYVcZdha518UhC71tVwlQ~LJHByGAVWE8z8iNJf17FmwoEa8WJ7KhPT0wq508z98uiz901NvimYMaHmvCLD-fPxiwYklCOamPnO6aaqkMdLN~0LAVf3uLFOX70mB1L5ds1ZEK0cW77gy~E22f~SzCAp5HHN9F-hB3X4sTOYUV0vd0BnOiRi9oJxDQ7MEtFFyZRXfN-QdlY3fuEOhlyn4xmythbbnkzNq6o5CYwVHE59qg__%22%7D" alt="ROMA3DL" width="30%" />
 ROMA3DL est un bras robotique à trois degrés de liberté conçu pour offrir une solution polyvalente en matière de manipulation d’objets. Il s’inscrit dans le cadre d’un projet de fin d’année destiné aux étudiants en deuxième année de classes préparatoires, combinant des aspects de conception mécanique, d’électronique et de programmation.
 
 L’objectif principal de ce projet est de permettre aux étudiants d’explorer les concepts fondamentaux de la robotique et de l’automatisation en développant un système fonctionnel et interactif.
