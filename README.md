@@ -56,7 +56,8 @@ Ce projet représente pour nous une opportunité de mettre en pratique nos conna
 ## V.  Déroulement 
   ### 1. Esquis
   ### 2. Modèle 3D
-   <img align="right" src= "(https://github.com/user-attachments/assets/2ca13a3a-0658-4ddd-a573-8709cef0fd53)" alt="ROMA3DL" width="30%" />
+   <img align="right" src= "![Capture_d’écran_2025-04-02_161603 1](https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9)"
+ alt="ROMA3DL" width="30%" />
   ### 3. Codes
 ## VI. Licence
 ## VII. Contributions
