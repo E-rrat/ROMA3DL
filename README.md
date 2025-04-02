@@ -22,8 +22,7 @@ L’objectif principal de ce projet est de permettre aux étudiants d’explorer
   [1. Esquis](#1-Esquis)
   
   [2. modèle 3D](#2-Modèle-3D)
-  <img align="right" src= "![Capture_d’écran_2025-04-02_161603 1](https://github.com/user-attachments/assets/3864f88c-3220-4649-b567-b73b082c8264)
-" alt="ROMA3DL" width="30%" />
+  <img align="right" src= "(https://github.com/user-attachments/assets/2ca13a3a-0658-4ddd-a573-8709cef0fd53)" alt="ROMA3DL" width="30%" />
   [3. codes](#3-Codes)
 
 [VI. Licence](#vi-Licence)
