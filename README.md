@@ -57,7 +57,7 @@ Ce projet représente pour nous une opportunité de mettre en pratique nos conna
   ### 1. Esquis
   ### 2. Modèle 3D
  <p align="right">
-  <img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL" width="30%" />
+  <img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL" width="50%" />
 </p>
   ### 3. Codes
 ## VI. Licence
