@@ -48,9 +48,9 @@ Ce projet représente pour nous une opportunité de mettre en pratique nos conna
 ## IV. Liste de matériel 
 | **Systhémes**             | **materiel (arduino)**                            | **utilité**                                        |
 |-------------------------|---------------------------------------------------|-----------------------------------------------|
-|🖥️**Microcontrôleur**    | Arduino Mega                                      |Rélier les différents composants du circuit |
-|📟**Circuit intégré**   |Contrôleur PCB                                      |  |
-|🦼**Moteur**  |   servocontroleur PCB,servomoteur MG90S,servomoteur MG996R |permet de creer le mouvement, réduit la vitesse et l'augmente |
+|🖥️**Microcontrôleur**    | Arduino Mega , Arduino Uno                                    |Rélier les différents composants du circuit |
+|📟**Circuit intégré**   |Servocontrôleur pour servomoteurs                                    |  Controler tous les servomoteurs avec une seule plaque
+|🦼**Moteur**  |   servomoteur MG90S,servomoteur MG996R |permet de creer le mouvement, réduit la vitesse et l'augmente |
 | 🔋**Baterrie**| 14 volts et 9 volts | alimenter  le microcontroleur |            
 | 📳**module Bluetooth** | HC-05    | Envoyer des commandes vocales depuis une application mobile|         
 ## V.  Déroulement 
