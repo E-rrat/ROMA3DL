@@ -45,6 +45,29 @@ Ce projet représente pour nous une opportunité de mettre en pratique nos conna
 <br>✅ **Commande vocale**  – Contrôle du bras par des ordres simples via Bluetooth/Wi-Fi.</br>
 <br>✅ **Saisie et manipulation d’objets** – Pince robotisée avec capteurs pour ajuster la prise.</br>
 <br>✅ **Contrôle à distance**  – Pilotage via application mobile ou PC.</br>
+
+- **Prise en charge de formes de jardins quelconques**
+- **Cartographie thermique**
+- **Cartographie de l'humidité**
+- **Cartographie de l'ensoleillement**
+- **Conseils de jardinage**
+
+```mermaid
+graph TD;
+    A[Capteurs de température, humidité et luminosité] --> B(Analyse des données);
+    B --> C{Conditions de jardinage};
+    C -->|Température élevée| D(Arrosage plus fréquent);
+    C -->|Humidité basse| E(Augmenter l'arrosage ou ajouter du paillis);
+    C -->|Ensoleillement insuffisant| F(Déplacer les plantes vers des zones plus ensoleillées ou ajouter des lampes de croissance);
+    C -->|Conditions optimales| G(Aucun conseil nécessaire);
+    D --> H{Connecté à un ordinateur};
+    E --> H;
+    F --> H;
+    G --> H;
+    H --> I(Interface utilisateur);
+    I --> J[Tableau de données];
+    I --> K[Graphiques de tendances];
+```
 ## IV. Liste de matériel 
 | **Systhémes**             | **materiel (arduino)**                            | **utilité**                                        |
 |-------------------------|---------------------------------------------------|-----------------------------------------------|
