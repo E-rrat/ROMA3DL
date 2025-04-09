@@ -61,9 +61,8 @@ Ce projet représente pour nous une opportunité de mettre en pratique nos conna
   
   ### 3. Codes
 ## VI. Licence
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-...
+Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU 
+telle que publiée par la Free Software Foundation ; soit la version 3 de la licence, soit (à votre choix) toute version ultérieure.
 
 ## VII. Contributions
 ## VIII. Remerciements
