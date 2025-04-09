@@ -46,12 +46,9 @@ Ce projet représente pour nous une opportunité de mettre en pratique nos conna
 <br>✅ **Saisie et manipulation d’objets** – Pince robotisée avec capteurs pour ajuster la prise.</br>
 <br>✅ **Contrôle à distance**  – Pilotage via application mobile ou PC.</br>
 
-- **Prise en charge de formes de jardins quelconques**
-- **Cartographie thermique**
-- **Cartographie de l'humidité**
-- **Cartographie de l'ensoleillement**
-- **Conseils de jardinage**
-
+- **Commande vocale**  – Contrôle du bras par des ordres simples via Bluetooth/Wi-Fi.</br>
+-**Saisie et manipulation d’objets** – Pince robotisée avec capteurs pour ajuster la prise.</br>
+-**Contrôle à distance**
 ```mermaid
 graph TD;
     A[Capteurs de température, humidité et luminosité] --> B(Analyse des données);
