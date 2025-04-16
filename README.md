@@ -67,6 +67,6 @@ Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifi
 telle que publiée par la Free Software Foundation ; soit la version 3 de la licence, soit (à votre choix) toute version ultérieure.
 
 ## VII. Contributions
-OpenIA 
-Mr Hankem Justin 
+<br>OpenIA</br>
+<br>Mr Hankem Justin<br/>
 ## VIII. Remerciements
