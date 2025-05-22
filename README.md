@@ -35,9 +35,8 @@ L’objectif principal de ce projet est de permettre aux étudiants d’explorer
 
 ## I. Qui sommes-nous ?
 
-Dans le cadre de notre deuxième année de classe préparatoire au cycle ingénieur à ***l'ESEO-Cours Lumière au Togo***, nous devons réaliser un projet de fin d’études visant à mettre en application l’ensemble des compétences acquises au cours de ces deux années.
+Dans le cadre de notre deuxième année de classe préparatoire au cycle ingénieur à ***l'ESEO-Cours Lumière au Togo***, nous avons eu à réaliser un projet d’études visant à mettre en application l’ensemble des compétences acquises au cours des deux années de classes préparatoires qui viennent de s'écouler. Notre équipe est constituée de 9 personnes dont: 
 
-Notre équie est constituée de : 
 <br>***AGBOKOU Guillaume***: ,<br/> 
 <br>***AKPAH Starker***: ,<br/> 
 <br>***BADJA Jules***: ,<br/> 
@@ -48,7 +47,7 @@ Notre équie est constituée de :
 <br>***GOUDOU Ariel***: ,<br/>
 <br>***KORDOHOU Errath***:  <br/>
 
-Nous avons choisis de développer un projet intitulé ***ROMA3DL***. Ce projet consiste en la conception et la réalisation d’un robot manipulateur commandé par la voix, intégrant des compétences en mécanique, en électronique et en modélisation 3D.
+Notre projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot manipulateur innovant, capable d’être contrôlé de manière hybride à la fois manuellement et virtuellement. Pour le contrôle manuel, nous avons intégré des joysticks permettant une prise en main intuitive et une manipulation précise en temps réel. Parallèlement, une application mobile basée sur la technologie Bluetooth a été développée afin d’offrir une interface de commande virtuelle, rendant possible le pilotage à distance du robot. Ce projet mobilise des compétences transversales en mécanique (pour la structure et les articulations du bras robotisé), en électronique (pour le traitement des signaux, l’alimentation et le pilotage des moteurs), ainsi qu’en modélisation 3D (pour la conception assistée par ordinateur et l’impression des pièces mécaniques). ***ROMA3DL*** incarne ainsi une approche pluridisciplinaire, alliant théorie et pratique, en vue de proposer une solution technologique fonctionnelle, évolutive et pédagogique.
 
 Ce projet représente pour nous une opportunité de mettre en pratique nos connaissances et d’acquérir une expérience concrète en  ingénierie.
 ## II. Objectif du projet
