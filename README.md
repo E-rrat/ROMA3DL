@@ -36,7 +36,6 @@ L’objectif principal de ce projet est de permettre aux étudiants d’explorer
 ## I. Qui sommes-nous ?
 
 Dans le cadre de notre deuxième année de classe préparatoire au cycle ingénieur à ***l'ESEO-Cours Lumière au Togo***, nous avons eu à réaliser un projet d’études visant à mettre en application l’ensemble des compétences acquises au cours des deux années de classes préparatoires qui viennent de s'écouler. Notre équipe est constituée de 9 personnes dont: 
-
 <br>***AGBOKOU Guillaume***: agbogui@efecourslumiere.org,<br/> 
 <br>***AKPAH Starker***: kanakp@efecourslumiere.org,<br/> 
 <br>***BADJA Jules***: poubad@efecourslumiere.org,<br/> 
