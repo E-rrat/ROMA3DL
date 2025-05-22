@@ -37,7 +37,8 @@ L’objectif principal de ce projet est de permettre aux étudiants d’explorer
 
 Dans le cadre de notre deuxième année de classe préparatoire au cycle ingénieur à ***l'ESEO-Cours Lumière au Togo***, nous devons réaliser un projet de fin d’études visant à mettre en application l’ensemble des compétences acquises au cours de ces deux années.
 
-Notre équie est constituée de : ***AGBOKOU Guillaume***: , 
+Notre équie est constituée de : 
+<br>***AGBOKOU Guillaume***: ,<br/> 
 <br>***AKPAH Starker***: ,<br/> 
 <br>***BADJA Jules***: ,<br/> 
 <br>***BANIZA Emmanuel***: ,<br/>
@@ -46,6 +47,7 @@ Notre équie est constituée de : ***AGBOKOU Guillaume***: ,
 <br>***DOUMBIA Aïchata***: ,<br/>
 <br>***GOUDOU Ariel***: ,<br/>
 <br>***KORDOHOU Errath***:  <br/>
+
 Nous avons choisis de développer un projet intitulé ***ROMA3DL***. Ce projet consiste en la conception et la réalisation d’un robot manipulateur commandé par la voix, intégrant des compétences en mécanique, en électronique et en modélisation 3D.
 
 Ce projet représente pour nous une opportunité de mettre en pratique nos connaissances et d’acquérir une expérience concrète en  ingénierie.
