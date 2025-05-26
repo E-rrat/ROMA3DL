@@ -58,7 +58,10 @@ Ce projet représente pour nous une opportunité de mettre en pratique nos conna
 <br>✅ **Saisie et manipulation d’objets** – Pince robotisée avec capteurs pour ajuster la prise.</br>
 <br>✅ **Contrôle à distance**  – Pilotage via application mobile ou PC.
 
-## IV. Liste de matériel 
+## IV. Liste de matériel
+
+Le matériel utilisé pour la réalisation de ce projet peut etre répertorié dans le tableau ci-dessous:
+
 | **Systhémes**             | **materiel (arduino)**                            | **utilité**                                        |
 |-------------------------|---------------------------------------------------|-----------------------------------------------|
 |🖥️**Microcontrôleur**    | Arduino Mega , Arduino Uno                                    |Rélier les différents composants du circuit |
