@@ -48,15 +48,31 @@ Dans le cadre de notre deuxième année de classe préparatoire au cycle ingéni
 <br>***GOUDOU Ariel***: arigou@efecourslumiere.org,<br/>
 <br>***KORDOHOU Errath***: errkor@efecourslumiere.org<br/>
 <br>
+Afin de réaliser du projet, trois équipes ont été formées pour l'aboutissement d'un résultat:
+<br>
+<br>***Equipe modélisation***: -***AGBOKOU Guillaume***,<br/>
+                               -***GOUDOU Ariel***<br/>
+<br>***AKPAH Starker***: kanakp@efecourslumiere.org,<br/> 
+<br>***BADJA Jules***: poubad@efecourslumiere.org,<br/> 
+<br>
 Notre projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot manipulateur innovant, capable d’être contrôlé de manière hybride à la fois manuellement et virtuellement. Pour le contrôle manuel, nous avons intégré des joysticks permettant une prise en main intuitive et une manipulation précise en temps réel. Parallèlement, une application mobile basée sur la technologie Bluetooth a été développée afin d’offrir une interface de commande virtuelle, rendant possible le pilotage à distance du robot. Ce projet mobilise des compétences transversales en mécanique (pour la structure et les articulations du bras robotisé), en électronique (pour le traitement des signaux, l’alimentation et le pilotage des moteurs), ainsi qu’en modélisation 3D (pour la conception assistée par ordinateur et l’impression des pièces mécaniques). ***ROMA3DL*** incarne ainsi une approche pluridisciplinaire, alliant théorie et pratique, en vue de proposer une solution technologique fonctionnelle, évolutive et pédagogique.
 
 Ce projet représente pour nous une opportunité de mettre en pratique nos connaissances et d’acquérir une expérience concrète en  ingénierie.
 ## II. Objectif du projet
 **ROMA3DL**  nous permets une immersion concrète dans la robotique en mettant en pratique leurs connaissances en cinématique, mécanique, électronique et informatique. En concevant un bras robotique à trois degrés de liberté doté d'une commande vocale, ils apprennent à modéliser en CAO(Conception Assistée par Ordinateur), à choisir les moteurs et capteurs adaptés, à programmer des microcontrôleurs et à intégrer des solutions de communication sans fil. Ce projet multidisciplinaire renforce leur autonomie, le travail en équipe et leur capacité à gérer un projet complexe, les préparant ainsi efficacement à leur future carrière d'ingénieur au sein d'écoles prestigieuses comme l'**ESEO**.
 ## III. Fonctionnalités
-<br>✅ **Commande vocale**  – Contrôle du bras par des ordres simples via Bluetooth/Wi-Fi.</br>
-<br>✅ **Saisie et manipulation d’objets** – Pince robotisée avec capteurs pour ajuster la prise.</br>
-<br>✅ **Contrôle à distance**  – Pilotage via application mobile ou PC.
+<br>✅ **Commande vocale**  – Contrôle du bras par des ordres simples via Bluetooth.(A revoir)
+<br>
+Le bras robotisé est doté d’un système de reconnaissance vocale permettant à l'utilisateur de le contrôler par des commandes simples et intuitives. Grâce à la connectivité Bluetooth, les ordres vocaux sont transmis en temps réel à l’unité centrale du bras, qui les interprète pour exécuter des actions pour saisir, effectuer des rotations et des translations. Cette fonctionnalité rend le dispositif particulièrement accessible aux personnes à mobilité réduite ou dans des contextes où les mains ne peuvent pas être utilisées.
+</br>
+<br>✅ **Saisie et manipulation d’objets** – Pince robotisée avec capteurs pour ajuster la prise.
+<br>
+La pince robotisée située à l'extrémité du bras est équipée d'un servomoteur. Avec le code implanté dans l'arduino, la vitesse du  servomoteur utilisé est plus lente qu'un servomoteur d'origine. Ceci permet donc d'adapter automatiquement la force de préhension selon la nature de l'objet à manipuler, évitant ainsi toute casse ou glissement. Cette précision rend possible la saisie d’objets variés, allant de petits éléments fragiles à des pièces plus robustes, et permet une manipulation stable et sécurisée.
+</br>
+<br>✅ **Contrôle à distance**  – Pilotage via application mobile ou PC.(A revoir)
+<br>
+Le bras peut également être piloté à distance via une interface dédiée réalisée à partir de flutter et disponible sur ordinateur. L'utilisateur peut envoyer des commandes manuelles ou prédéfinies, et ajuster les paramètres de mouvement selon ses besoins. Cette fonctionnalité est idéale pour les tâches nécessitant une intervention à distance, comme en milieu médical, industriel ou dans les environnements hostiles.
+</br>
 
 ## IV. Liste de matériel
 
