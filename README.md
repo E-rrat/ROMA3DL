@@ -111,7 +111,7 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 | **Systemes**            | **Materiel (arduino)**                           | **Utilité**                                                |
 |-------------------------|--------------------------------------------------|-------------------------------------------------------------|
 |🖥️**Microcontrôleur**    | Arduino Mega , Arduino Uno                       |Rélie les différents composants du circuit                  |
-|📟**Circuit intégré**    |Servocontrôleur pour servomoteurs                 |  Controle tous les servomoteurs avec une seule plaque      |
+|📟**Circuit intégré**    |Joysticks                                         |  Controle tous les servomoteurs avec une seule plaque      |
 |🦼**Moteur**             |   servomoteur MG90S,servomoteur MG996R           |Crée le mouvement et réduit la vitesse et l'augmente        |
 | 🔋**Baterrie**          | 14 volts et 9 volts                              | alimenter  le microcontroleur                              |            
 | 📳**module Bluetooth**  | HC-05                                            | Envoyer des commandes vocales depuis une application mobile|   
