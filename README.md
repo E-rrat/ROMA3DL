@@ -50,8 +50,7 @@ Dans le cadre de notre deuxième année de classe préparatoire au cycle ingéni
 <br>
 Afin de réaliser du projet, trois équipes ont été formées pour l'aboutissement d'un résultat:
 <br>
-<br>**Equipe modélisation**: -***AGBOKOU Guillaume***,
-                               -***GOUDOU Ariel***<br/>
+<br>**Equipe modélisation**:</br> <br>-***AGBOKOU Guillaume***,<br>-***GOUDOU Ariel***
 <br>***AKPAH Starker***: kanakp@efecourslumiere.org,<br/> 
 <br>***BADJA Jules***: poubad@efecourslumiere.org,<br/> 
 <br>
