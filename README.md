@@ -78,13 +78,13 @@ Le bras peut également être piloté à distance via une interface dédiée ré
 
 Le matériel utilisé pour la réalisation de ce projet peut etre répertorié dans le tableau ci-dessous:
 
-| **Systemes**            | **Materiel (arduino)**                           | **Utilité**                                        |
-|-------------------------|---------------------------------------------------|-----------------------------------------------|
-|🖥️**Microcontrôleur**    | Arduino Mega , Arduino Uno                                    |Rélier les différents composants du circuit |
-|📟**Circuit intégré**    |Servocontrôleur pour servomoteurs                                    |  Controler tous les servomoteurs avec une seule plaque
-|🦼**Moteur**  |   servomoteur MG90S,servomoteur MG996R |permet de creer le mouvement, réduit la vitesse et l'augmente |
-| 🔋**Baterrie**| 14 volts et 9 volts | alimenter  le microcontroleur |            
-| 📳**module Bluetooth** | HC-05    | Envoyer des commandes vocales depuis une application mobile|         
+| **Systemes**            | **Materiel (arduino)**                           | **Utilité**                                                |
+|-------------------------|--------------------------------------------------|-------------------------------------------------------------|
+|🖥️**Microcontrôleur**    | Arduino Mega , Arduino Uno                       |Rélie les différents composants du circuit                  |
+|📟**Circuit intégré**    |Servocontrôleur pour servomoteurs                 |  Controle tous les servomoteurs avec une seule plaque      |
+|🦼**Moteur**             |   servomoteur MG90S,servomoteur MG996R           |Crée le mouvement et réduit la vitesse et l'augmente        |
+| 🔋**Baterrie**          | 14 volts et 9 volts                              | alimenter  le microcontroleur                              |            
+| 📳**module Bluetooth**  | HC-05                                            | Envoyer des commandes vocales depuis une application mobile|         
 ## V.  Déroulement 
   ### 1. Esquis
   ### 2. Modèle 3D
