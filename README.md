@@ -1,4 +1,4 @@
-# ROMA3DL (Robot Manipulateur à 3 Degré de Liberté)
+# ROMA3DL (Robot Manipulateur à 3 Degré de Liberté)✋🤖
 
 # Description:
 Le projet ROMA3DL consiste en la conception, la réalisation et le contrôle d’un robot manipulateur articulé doté de trois degrés de liberté (3DL). Ce type de robot est capable d’effectuer des mouvements dans l’espace à l’aide de trois articulations (généralement deux rotations et une translation, ou trois rotations), ce qui lui permet de manipuler des objets dans un plan ou dans l’espace tridimensionnel restreint.
