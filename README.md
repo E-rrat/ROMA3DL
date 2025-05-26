@@ -84,7 +84,8 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 |📟**Circuit intégré**    |Servocontrôleur pour servomoteurs                 |  Controle tous les servomoteurs avec une seule plaque      |
 |🦼**Moteur**             |   servomoteur MG90S,servomoteur MG996R           |Crée le mouvement et réduit la vitesse et l'augmente        |
 | 🔋**Baterrie**          | 14 volts et 9 volts                              | alimenter  le microcontroleur                              |            
-| 📳**module Bluetooth**  | HC-05                                            | Envoyer des commandes vocales depuis une application mobile|         
+| 📳**module Bluetooth**  | HC-05                                            | Envoyer des commandes vocales depuis une application mobile|   
+
 ## V.  Déroulement 
   ### 1. Esquis
   ### 2. Modèle 3D
