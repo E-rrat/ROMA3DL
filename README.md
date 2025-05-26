@@ -63,8 +63,8 @@ Ce projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot ma
 
 <br>1. Développement technique :</br>
 <br>Concevoir un système mécanique robuste :</br> Le robot doit posséder une structure mécanique solide et fiable, capable de réaliser des tâches précises avec trois degrés de liberté.
-Intégrer la commande vocale : Utiliser l'assistant Google pour recevoir et interpréter les commandes vocales, permettant ainsi une manipulation intuitive et sans contact physique.
-Développer une application mobile : Créer une application via Flutter qui servira d'interface pour la configuration et le contrôle vocal du robot.
+<br>Intégrer la commande vocale :</br> Utiliser l'assistant Google pour recevoir et interpréter les commandes vocales, permettant ainsi une manipulation intuitive et sans contact physique.
+<br>Développer une application mobile :</br> Créer une application via Flutter qui servira d'interface pour la configuration et le contrôle vocal du robot.
 
 2. Innovation technologique :
 Exploiter les avancées en IA et traitement du langage naturel : Tirer parti des dernières innovations en intelligence artificielle pour améliorer la reconnaissance vocale et la compréhension des commandes.
