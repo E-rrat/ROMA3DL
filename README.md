@@ -7,7 +7,7 @@
 ROMA3DL est un bras robotique à trois degrés de liberté conçu pour offrir une solution polyvalente en matière de manipulation d’objets. Il s’inscrit dans le cadre d’un projet de fin d’année destiné aux étudiants en deuxième année de classes préparatoires, combinant des aspects de conception mécanique, d’électronique et de programmation.
 
 L’objectif principal de ce projet est de permettre aux étudiants d’explorer les concepts fondamentaux de la robotique et de l’automatisation en développant un système fonctionnel et interactif.
-<br><br>
+<br>
 
 # Sommaire  
 
