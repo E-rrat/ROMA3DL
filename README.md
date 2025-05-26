@@ -52,7 +52,7 @@ Afin de réaliser du projet, trois équipes ont été formées pour l'aboutissem
 <br>
 <br>**Equipe modélisation**:</br>-***AGBOKOU Guillaume***,<br>-***GOUDOU Ariel***</br>
 <br>**Equipe programmation manuelle**:</br>-***BANIZA Emmanuel***,<br>-***BADJA Jules***</br>
-<br>**Equipe application**: </br>-***AKPAH Starker***,<br>-***BANKA Wilfried***</br>,<br>-***COQUEREL Michel***</br>
+<br>**Equipe application**: </br>-***AKPAH Starker***,<br>-***BANKA Wilfried***,<br>-***COQUEREL Michel***</br>
 <br>**Equipe documentation**:</br>-***DOUMBIA Aïchata***,<br>-***KORDOHOU Errath***</br> 
 <br>
 Notre projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot manipulateur innovant, capable d’être contrôlé de manière hybride à la fois manuellement et virtuellement. Pour le contrôle manuel, nous avons intégré des joysticks permettant une prise en main intuitive et une manipulation précise en temps réel. Parallèlement, une application mobile basée sur la technologie Bluetooth a été développée afin d’offrir une interface de commande virtuelle, rendant possible le pilotage à distance du robot. Ce projet mobilise des compétences transversales en mécanique (pour la structure et les articulations du bras robotisé), en électronique (pour le traitement des signaux, l’alimentation et le pilotage des moteurs), ainsi qu’en modélisation 3D (pour la conception assistée par ordinateur et l’impression des pièces mécaniques). ***ROMA3DL*** incarne ainsi une approche pluridisciplinaire, alliant théorie et pratique, en vue de proposer une solution technologique fonctionnelle, évolutive et pédagogique.
