@@ -71,21 +71,21 @@ Ce projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot ma
 ## II. Objectif du projet
 **ROMA3DL**  nous permets une immersion concrète dans la robotique en mettant en pratique leurs connaissances en cinématique, mécanique, électronique et informatique. En concevant un bras robotique à trois degrés de liberté doté d'une commande vocale, ils apprennent à modéliser en CAO(Conception Assistée par Ordinateur), à choisir les moteurs et capteurs adaptés, à programmer des microcontrôleurs et à intégrer des solutions de communication sans fil. Ce projet multidisciplinaire renforce leur autonomie, le travail en équipe et leur capacité à gérer un projet complexe, les préparant ainsi efficacement à leur future carrière d'ingénieur au sein d'écoles prestigieuses comme l'**ESEO**.<br>Le projet ROMA3DL vise à concevoir et développer un robot manipulateur à trois degrés de liberté contrôlé par commande vocale, intégrant des technologies avancées pour améliorer l'interaction humain-robot. Les objectifs spécifiques du projet peuvent être décrits comme suit :</br>
 
-<br>1. Développement technique :</br>
+<br>1. Développement technique :
 <br>▶Concevoir un système mécanique robuste : Le robot doit posséder une structure mécanique solide et fiable, capable de réaliser des tâches précises avec trois degrés de liberté.</br>
 <br>▶Intégrer la commande vocale : Utiliser l'assistant Google pour recevoir et interpréter les commandes vocales, permettant ainsi une manipulation intuitive et sans contact physique.</br>
 <br>▶Développer une application mobile : Créer une application via Flutter qui servira d'interface pour la configuration et le contrôle vocal du robot.</br>
 
-<br>2. Innovation technologique :</br>
+<br>2. Innovation technologique :
 <br>▶Exploiter les avancées en IA et traitement du langage naturel : Tirer parti des dernières innovations en intelligence artificielle pour améliorer la reconnaissance vocale et la compréhension des commandes.</br>
 <br>▶Optimiser la réponse du système : Assurer une réponse rapide et précise du robot aux commandes vocales, minimisant ainsi les délais et les erreurs dans l'exécution des tâches.</br>
 
-<br>3. Application et impact :</br>
+<br>3. Application et impact :
 <br>▶Évaluation en environnement réel : Tester le robot dans des scénarios réels pour évaluer sa performance et son utilité pratique, notamment dans des environnements industriels ou de recherche.</br>
 <br>▶Améliorer l'ergonomie et la sécurité au travail : Démontrer comment le contrôle vocal peut réduire la fatigue et les risques d'accidents, en particulier dans des contextes où les interactions physiques avec les machines présentent des risques.</br>
 <br>▶Contribuer à l'éducation et la formation : Utiliser le projet comme outil pédagogique pour les étudiants en ingénierie, leur permettant d'apprendre les principes de la robotique, du contrôle vocal, et de l'interaction homme-machine.</br>
 
-<br>4. Durabilité et évolutivité :</br>
+<br>4. Durabilité et évolutivité :
 <br>▶Concevoir avec une perspective de durabilité : Assurer que le robot est construit avec des matériaux durables et une conception qui permet des mises à jour faciles.</br>
 <br>▶Planifier pour l'évolutivité : Structurer le projet de manière à ce qu'il puisse être facilement amélioré ou modifié pour inclure plus de fonctionnalités ou s'adapter à différents usages.</br>
 
