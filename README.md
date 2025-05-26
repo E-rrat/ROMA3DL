@@ -68,7 +68,6 @@ Ce projet représente pour nous une opportunité de mettre en pratique nos conna
 | 📳**module Bluetooth** | HC-05    | Envoyer des commandes vocales depuis une application mobile|         
 ## V.  Déroulement 
   ### 1. Esquis
-  <p align="center"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL" width="90%" /></p>
   ### 2. Modèle 3D
  <p align="center"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL" width="90%" /></p>
   
