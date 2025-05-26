@@ -37,7 +37,7 @@ L’objectif principal de ce projet est de permettre aux étudiants d’explorer
 ## I. Qui sommes-nous ?
 
 Dans le cadre de notre deuxième année de classe préparatoire au cycle ingénieur à ***l'ESEO-Cours Lumière au Togo***, nous avons eu à réaliser un projet d’études visant à mettre en application l’ensemble des compétences acquises au cours des deux années de classes préparatoires qui viennent de s'écouler. Notre équipe est constituée de 9 personnes dont:
-
+<br><br>
 <br>***AGBOKOU Guillaume***: agbogui@efecourslumiere.org,<br/> 
 <br>***AKPAH Starker***: kanakp@efecourslumiere.org,<br/> 
 <br>***BADJA Jules***: poubad@efecourslumiere.org,<br/> 
@@ -47,7 +47,6 @@ Dans le cadre de notre deuxième année de classe préparatoire au cycle ingéni
 <br>***DOUMBIA Aïchata***: aicdou@efecourslumiere.org,<br/>
 <br>***GOUDOU Ariel***: arigou@efecourslumiere.org,<br/>
 <br>***KORDOHOU Errath***: errkor@efecourslumiere.org<br/>
-
 Notre projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot manipulateur innovant, capable d’être contrôlé de manière hybride à la fois manuellement et virtuellement. Pour le contrôle manuel, nous avons intégré des joysticks permettant une prise en main intuitive et une manipulation précise en temps réel. Parallèlement, une application mobile basée sur la technologie Bluetooth a été développée afin d’offrir une interface de commande virtuelle, rendant possible le pilotage à distance du robot. Ce projet mobilise des compétences transversales en mécanique (pour la structure et les articulations du bras robotisé), en électronique (pour le traitement des signaux, l’alimentation et le pilotage des moteurs), ainsi qu’en modélisation 3D (pour la conception assistée par ordinateur et l’impression des pièces mécaniques). ***ROMA3DL*** incarne ainsi une approche pluridisciplinaire, alliant théorie et pratique, en vue de proposer une solution technologique fonctionnelle, évolutive et pédagogique.
 
 Ce projet représente pour nous une opportunité de mettre en pratique nos connaissances et d’acquérir une expérience concrète en  ingénierie.
