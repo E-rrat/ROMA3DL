@@ -150,11 +150,11 @@ Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifi
 telle que publiée par la Free Software Foundation ; soit la version 3 de la licence, soit (à votre choix) toute version ultérieure.
 
 ## VII. Contributions
- Marc Mino-Matot : Fondateur du lycee cours lummiere avec l'obtention des materiaux
-<br>Mr Hankem Justin<br/> Supervision et controle
+ <br>Marc Mino-Matot : Dans l'obtention des materiaux</br>
+<br>Mr Hankem Justin: Supervision et controle<br/> 
 
 ## VIII. Remerciements
-Mme Aimée Kloukpo 
-Mr Marc Mino-Matot
-Mr Hankem
+<br>Mme Aimée Kloukpo<br/> 
+<br>Mr Marc Mino-Matot<br/> 
+<br>Mr Hankem<br/> 
 
