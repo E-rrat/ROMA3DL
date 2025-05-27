@@ -123,6 +123,28 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  <p align="center"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL" width="90%" /></p>
   
   ### 3. Codes
+  > [!NOTE]
+> ### Problèmes & Solutions
+> Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
+> **Pendant la modélisation 3D** :
+> - Centrer les extrusions (destinées à la carte) horizontalement au milieu de la face réservée en utilisant la modélisation paramétrique.
+> - Établir une connexion claire entre les esquisses et la modélisation 3D.
+> - Éviter les sur-contraintes de l’esquisse.
+
+> [!WARNING]
+> **Après la modélisation 3D** :
+> - Le DHT22 et le module GPS ne rentraient pas dans l'espace qui leur était réservés.
+> - Les Servomoteurs flottaient dans l'espace qui leur était réservés.
+
+> [!NOTE]
+> **Pendant la conception du circuit** :
+> - Importer le DHT22 dans Fritzing.
+> - Importer le Shield adapté à l'Arduino NANO dans Fritzing.
+> - L'absence du NANO, du module GPS et du DHT22 dans Tinkercad.
+
+> [!TIP]
+> Pour résoudre ces problèmes, nous avons "innover" et fait les tests nécessaires avec l'Arduino UNO étant donné les nombreuses similitudes entre cette carte et l'arduino NANO. Quant aux pièces, nous avons limé les contours pour pouvoir placer le DHT22 et utiliser le pistolet à colle pour fixer les servomoteurs.
+
 ## VI. Licence
 Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU 
 telle que publiée par la Free Software Foundation ; soit la version 3 de la licence, soit (à votre choix) toute version ultérieure.
