@@ -120,7 +120,7 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  
  <p align="center"><img src="https://github.com/user-attachments/assets/edbf13bd-5496-4108-bcf2-949fa65498ca" alt="ROMA3DL" width="90%"/></p>
     <p align="left"><img src="https://github.com/user-attachments/assets/41cef1cd-ff78-4d63-8d6e-4881f8ae9848"alt="ROMA3DL" width="100%"/></p>
-
+<p align="left"><img scr="https://github.com/user-attachments/assets/9c078148-df42-43bf-9e1f-611d65630f8c" alt="ROMA3DL" width="100%"/></p>
 
    L’image illustre les différentes composantes du bras mécanique :
 <br>Le bras:élément central assurant la liaison entre les avant-bras et le support de la pince.</br>
