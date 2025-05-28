@@ -127,7 +127,7 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 <br>Une pince : outil terminal permettant la saisie d’objets, ici entraîné par un engrenage
    
    ### 2. Modèle 3D
-   <p align="left"><img src="https://github.com/user-attachments/assets/fac91796-685f-4404-9b55-1f1820629ae4" alt="ROMA3DL" width="80%"/></p>
+   <p align="left"><img src="https://github.com/user-attachments/assets/1d0f6a20-6129-4005-84f7-058bd3b6672d" alt="ROMA3DL" width="80%"/></p>
 
  <p align="left"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL" width="80%" /></p>
 
