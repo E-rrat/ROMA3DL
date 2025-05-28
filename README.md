@@ -134,13 +134,9 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
   > [!NOTE]
 > ### Problèmes & Solutions
 > Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
-> **Pendant la modélisation 3D** :
-> -.....
-> - .....
-> - ......
-
-  > [!WARNING]
-> ### Après la modélisation 3D :
+> - Probleme d'adaptabiliter du code entre bluetooth , la commande vocale, le joystik 
+> - Adaptabiliter du code  et du bras
+> - 
 > -.....
 > - .....
 
