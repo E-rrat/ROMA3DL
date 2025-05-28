@@ -49,15 +49,15 @@ Le projet ROMA3DL est principalement destiné aux étudiants en deuxième année
 
 Dans le cadre de notre deuxième année de classe préparatoire au cycle ingénieur à ***l'ESEO-Cours Lumière au Togo***, nous avons eu à réaliser un projet d’études visant à mettre en application l’ensemble des compétences acquises au cours des deux années de classes préparatoires qui viennent de s'écouler. Notre équipe est constituée de 9 personnes dont:
 <br>
-<br>***AGBOKOU Guillaume***: agbogui@efecourslumiere.org,<br/> 
-<br>***AKPAH Starker***: kanakp@efecourslumiere.org,<br/> 
-<br>***BADJA Jules***: poubad@efecourslumiere.org,<br/> 
-<br>***BANIZA Emmanuel***: magban@efecourslumiere.org,<br/>
-<br>***BANKA Wilfried***: wilban@efecourslumiere.org,<br/>
-<br>***COQUEREL Michel***: miccoq@efecourslumiere.org,<br/>
-<br>***DOUMBIA Aïchata***: aicdou@efecourslumiere.org,<br/>
-<br>***GOUDOU Ariel***: arigou@efecourslumiere.org,<br/>
-<br>***KORDOHOU Errath***: errkor@efecourslumiere.org<br/>
+<br>**AGBOKOU Guillaume**: agbogui@efecourslumiere.org,<br/> 
+<br>**AKPAH Starker**: kanakp@efecourslumiere.org,<br/> 
+<br>**BADJA Jules**: poubad@efecourslumiere.org,<br/> 
+<br>**BANIZA Emmanuel**: magban@efecourslumiere.org,<br/>
+<br>**BANKA Wilfried**: wilban@efecourslumiere.org,<br/>
+<br>**COQUEREL Michel**: miccoq@efecourslumiere.org,<br/>
+<br>**DOUMBIA Aïchata**: aicdou@efecourslumiere.org,<br/>
+<br>**GOUDOU Ariel**: arigou@efecourslumiere.org,<br/>
+<br>**KORDOHOU Errath**: errkor@efecourslumiere.org<br/>
 <br>
 Afin de réaliser du projet, trois équipes ont été formées pour l'aboutissement d'un résultat:
 <br>
@@ -120,8 +120,8 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
   ### 1. Esquis
  <p align="center"><img src="https://github.com/user-attachments/assets/6bef7af4-bcb3-4209-ac4b-f498a655eca0" alt="ROMA3DL" width="90%" /></p>
    L’image illustre les différentes composantes du bras mécanique :
-<br>***Le bras***: élément central assurant la liaison entre les avant-bras et le support de la pince.</br>
-<br>Les avant-bras: structures allongées fixées au bras principal, servant de prolongement mécanique.
+<br>**Le bras**:élément central assurant la liaison entre les avant-bras et le support de la pince.</br>
+<br>**Les avant-bras**: structures allongées fixées au bras principal, servant de prolongement mécanique.</br>
 <br>Le support de la pince : pièce de fixation qui accueille le système de préhension.
 <br>Une pince : outil terminal permettant la saisie d’objets, ici entraîné par un engrenage
   ### 2. Modèle 3D
