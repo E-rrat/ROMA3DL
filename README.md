@@ -118,6 +118,11 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 
 ## V.  Déroulement 
   ### 1. Esquis
+  L’image illustre les différentes composantes du bras mécanique :
+***Le bras*** : élément central assurant la liaison entre les avant-bras et le support de la pince.
+***Les avant-bras*** : structures allongées fixées au bras principal, servant de prolongement mécanique.
+***Le support de la pince*** : pièce de fixation qui accueille le système de préhension.
+Une pince : outil terminal permettant la saisie d’objets, ici entraîné par un engrenage.
  <p align="center">
   <img src="images/a864f8be-861d-439d-869b-6c6a73d6437f.jpg" alt="Bras du robot" width="90%" />
 </p>
