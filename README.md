@@ -1,7 +1,7 @@
 # ROMA3DL (Robot Manipulateur à 3 Degré de Liberté)🤖
 
 # Description:
-Le projet ROMA3DL a pour but de concevoir, fabriquer et piloter un robot manipulateur articulé possédant trois degrés de liberté (3DL). En robotique, un degré de liberté (DL) correspond à une direction indépendante de mouvement (comme une rotation ou une translation). Un bras robotisé avec 3 DL peut donc effectuer des mouvements complexes dans un plan ou dans une partie de l'espace tridimensionnel.
+Le projet ROMA3DL a pour but de concevoir, fabriquer et piloter un robot manipulateur articulé possédant trois degrés de liberté (3DL). En robotique, un degré de liberté (DL) correspond à une direction indépendante de mouvement (comme une rotation ou une translation).Un bras robotisé avec 3 DL peut donc effectuer des mouvements complexes dans un plan ou dans une partie de l'espace tridimensionnel.
 
 🦾 Ce que cela signifie :
 Ce type de robot est composé de trois articulations :
