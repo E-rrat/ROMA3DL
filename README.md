@@ -123,8 +123,7 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 <br>***Les avant-bras*** : structures allongées fixées au bras principal, servant de prolongement mécanique.
 <br>***Le support de la pince*** : pièce de fixation qui accueille le système de préhension.
 <br>***Une pince*** : outil terminal permettant la saisie d’objets, ici entraîné par un engrenage.
- <p align="center">
-  <img src="images/a864f8be-861d-439d-869b-6c6a73d6437f.jpg" alt="Bras du robot" width="90%" />
+ <p align="center"><img src="images/a864f8be-861d-439d-869b-6c6a73d6437f.jpg" alt="Bras du robot" width="90%" />
 </p>
 
   ### 2. Modèle 3D
