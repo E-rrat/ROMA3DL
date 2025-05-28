@@ -126,7 +126,7 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  <p align="center"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL" width="90%" /></p>
   
   ### 3. Codes
-  > [!NOTES]
+  > [!NOTE]
 > ### Problèmes & Solutions
 > Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
 > **Pendant la modélisation 3D** :
@@ -139,13 +139,13 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 > -.....
 > - .....
 
-  > [!NOTES]
+  > [!NOTE]
 >  ### Pendant la conception du circuit :
 > - ....
 > -......
 > - .....
 
-> [!TIPS]
+  > [!TIP]
 > Pour résoudre ces problèmes, nous avons "innover" et fait les tests nécessaires avec l'Arduino UNO étant donné les nombreuses similitudes entre cette carte et l'arduino NANO. Quant aux pièces, nous avons limé les contours pour pouvoir placer le DHT22 et utiliser le pistolet à colle pour fixer les servomoteurs.
 
 ## VI. Licence
