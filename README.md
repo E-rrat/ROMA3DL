@@ -126,7 +126,7 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  <p align="center"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL" width="90%" /></p>
   
   ### 3. Codes
-  > [!NOTE]
+  > [!NOTES IMPORTANTES]
 > ### Problèmes & Solutions
 > Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
 > **Pendant la modélisation 3D** :
@@ -135,12 +135,12 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 > - ......
 
   > [!ATTENTION]
-> **Après la modélisation 3D** :
+> ### Après la modélisation 3D :
 > -.....
 > - .....
 
-> [!Notes importantes]
-> **Pendant la conception du circuit** :
+  > [!Notes importantes]
+>  ### Pendant la conception du circuit :
 > - ....
 > -......
 > - .....
