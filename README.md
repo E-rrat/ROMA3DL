@@ -118,7 +118,10 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 
 ## V.  Déroulement 
   ### 1. Esquis
-  <p align="center"><img src=""C:\Users\ariel\Downloads\WhatsApp Image 2025-05-21 at 16.21.02.jpeg"" alt="ROMA3DL" width="90%" /></p>
+ <p align="center">
+  <img src="images/a864f8be-861d-439d-869b-6c6a73d6437f.jpg" alt="Bras du robot" width="90%" />
+</p>
+
   ### 2. Modèle 3D
  <p align="center"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL" width="90%" /></p>
   
