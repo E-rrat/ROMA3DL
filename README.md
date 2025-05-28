@@ -158,7 +158,5 @@ telle que publiée par la Free Software Foundation ; soit la version 3 de la lic
 <br>Mr Hankem Justin: Supervision et controle<br/> 
 
 ## VIII. Remerciements
-<br>Mme Aimée Kloukpo<br/> 
-<br>Mr Marc Mino-Matot<br/> 
-<br>Mr Hankem<br/> 
+<br>Nous tenons à exprimer notre profonde gratitude aux fondateurs du Lycée International Cours Lumière pour leur soutien financier sans lequel la réalisation de ce projet n’aurait pas été possible. Leur engagement constant envers la réussite des étudiants a été une véritable source de motivation. Nos remerciements vont également à Monsieur Justin Hankem pour ses conseils avisés et son accompagnement tout au long de ce travail. Enfin, nous saluons l’implication et la collaboration de toute la classe de 2e année, dont l’esprit d’équipe et la détermination ont grandement contribué au succès de ce projet.<br/> 
 
