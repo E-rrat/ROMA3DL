@@ -119,6 +119,8 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  <p align="center"><img src="https://github.com/user-attachments/assets/6bef7af4-bcb3-4209-ac4b-f498a655eca0" alt="ROMA3DL" width="90%"/></p>
  
  <p align="center"><img src="https://github.com/user-attachments/assets/edbf13bd-5496-4108-bcf2-949fa65498ca" alt="ROMA3DL" width="90%"/></p>
+    <p align="left"><img src="https://github.com/user-attachments/assets/41cef1cd-ff78-4d63-8d6e-4881f8ae9848"alt="ROMA3DL" width="100%"/></p>
+
 
    L’image illustre les différentes composantes du bras mécanique :
 <br>Le bras:élément central assurant la liaison entre les avant-bras et le support de la pince.</br>
@@ -127,7 +129,6 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 <br>Une pince : outil terminal permettant la saisie d’objets, ici entraîné par un engrenage
    
    ### 2. Modèle 3D
-   <p align="left"><img src="https://github.com/user-attachments/assets/41cef1cd-ff78-4d63-8d6e-4881f8ae9848"alt="ROMA3DL" width="100%"/></p>
 
  <p align="left"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL" width="100%" /></p>
 
