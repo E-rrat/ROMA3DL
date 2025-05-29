@@ -88,7 +88,7 @@ Ce projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot ma
 <br>▶Concevoir avec une perspective de durabilité : Assurer que le robot est construit avec des matériaux durables et une conception qui permet des mises à jour faciles.</br>
 <br>▶Planifier pour l'évolutivité : Structurer le projet de manière à ce qu'il puisse être facilement amélioré ou modifié pour inclure plus de fonctionnalités ou s'adapter à différents usages.</br>
 
-<p align="center"><img scr="https://github.com/user-attachments/assets/e2a8b18f-4db2-48c2-af95-b43eda3030db" alt="RAMO3DL" width="100% /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/e2a8b18f-4db2-48c2-af95-b43eda3030db" alt="RAMO3DL" width="100% /></p>
 
 ## III. Fonctionnalités
 <br>✅ **Commande vocale**  – Contrôle du bras par des ordres simples via Bluetooth.(A revoir)
@@ -137,9 +137,9 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  <p align="left"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL_modele" width="100%" /></p>
 
   ### 3.Circuit èléctronique
-  <p align="center"><img scr="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100% /></p>
-  <p align="center"><img scr="https://github.com/user-attachments/assets/0082bc6c-19ef-4404-a6f0-c41f3d6374d1" alt="RAMO3DL" width="100% /></p>
-   <p align="center"><img scr="" alt="RAMO3DL" width="100% /></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100% /></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/0082bc6c-19ef-4404-a6f0-c41f3d6374d1" alt="RAMO3DL" width="100% /></p>
+   <p align="center"><img src="" alt="RAMO3DL" width="100% /></p>
   ### 4. Codes
   ***Commande manuelle***
 
