@@ -139,13 +139,9 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 
   ### 3.Circuit èléctronique
   <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100% /></p>
-  <p align="center"><img src="https://github.com/user-attachments/assets/0082bc6c-19ef-4404-a6f0-c41f3d6374d1" alt="RAMO3DL" width="100% /></p>
-   <p align="center"><img src="" alt="RAMO3DL" width="100% /></p>
                        
   ### 4. Codes
   ***Commande manuelle***
-
-
 
  ## VI. Licence
 Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU 
