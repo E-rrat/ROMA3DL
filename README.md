@@ -121,7 +121,7 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  
   <p align="left"><img src="https://github.com/user-attachments/assets/41cef1cd-ff78-4d63-8d6e-4881f8ae9848"alt="ROMA3DL_repere" width="100%"/></p>
 
-   L’image illustre les différentes composantes du bras mécanique :
+   Cette image illustre les différentes composantes du bras mécanique :
 <br>Le bras:élément central assurant la liaison entre les avant-bras et le support de la pince.</br>
 <br>Les avant-bras: structures allongées fixées au bras principal, servant de prolongement mécanique.</b 
 <br>Le support de la pince : pièce de fixation qui accueille le système de préhension.
