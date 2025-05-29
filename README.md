@@ -101,15 +101,16 @@ Le bras peut également être piloté à distance via une interface dédiée ré
 
 Le matériel utilisé pour la réalisation de ce projet peut etre répertorié dans le tableau ci-dessous:
 
-| **Systemes**            | **Materielles**                           | **Utilité**                                                |
-|-------------------------|--------------------------------------------------|-------------------------------------------------------------|
+| **Systemes**             | **Materielles**                                  | **Utilité**                                                |
+|--------------------------|--------------------------------------------------|------------------------------------------------------------|
 |🖥️**Microcontrôleur**    | Arduino Mega , Arduino Uno                       |Rélie les différents composants du circuit                  |
-|📟**Commande**    |Joysticks                                         |  Controle tous les servomoteurs avec une seule plaque      |
+|📟**Commande**           |Joysticks                                         |  Controle tous les servomoteurs avec une seule plaque      |
 |🦼**Moteur**             |   servomoteur MG90S,servomoteur MG996R           |Crée le mouvement et réduit la vitesse et l'augmente        |
 | 🔋**Baterrie**          | 14 volts et 9 volts                              | alimenter  le microcontroleur                              |            
 | 📳**module Bluetooth**  | HC-05                                            | Envoyer des commandes vocales depuis une application mobile|   
-| **Modélisation 3D** |        Fusion 360     |   pour la  modelisation 3D  |
- |**Impression 3D** |    imprimante Pursa MK4 , Bobine PLA      | Pour l'impression 3D |
+| **Modélisation 3D**      |        Fusion 360                                | Pour la  modelisation 3D                                   |
+|**Impression 3D**         |    imprimante Pursa MK4 , Bobine PLA             | Pour l'impression 3D                                       |
+
 ## V.  Déroulement 
   ### 1. Esquis
   
