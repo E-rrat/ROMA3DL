@@ -116,7 +116,6 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 | 📳**module Bluetooth**  | HC-05                                            | Envoyer des commandes vocales depuis une application mobile|   
 | **Modélisation 3D** |        Fusion 360     |   pour la  modelisation 3D  |
  |**Impression 3D** |    imprimante Pursa MK4 , Bobine PLA      | Pour l'impression 3D |
- |
 ## V.  Déroulement 
   ### 1. Esquis
   
