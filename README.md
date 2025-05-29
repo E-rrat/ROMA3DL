@@ -88,6 +88,7 @@ Ce projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot ma
 <br>▶Concevoir avec une perspective de durabilité : Assurer que le robot est construit avec des matériaux durables et une conception qui permet des mises à jour faciles.</br>
 <br>▶Planifier pour l'évolutivité : Structurer le projet de manière à ce qu'il puisse être facilement amélioré ou modifié pour inclure plus de fonctionnalités ou s'adapter à différents usages.</br>
 
+<p align="center"><img scr="https://github.com/user-attachments/assets/e2a8b18f-4db2-48c2-af95-b43eda3030db" alt="RAMO3DL" width="100% /></p>
 
 ## III. Fonctionnalités
 <br>✅ **Commande vocale**  – Contrôle du bras par des ordres simples via Bluetooth.(A revoir)
@@ -136,88 +137,13 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  <p align="left"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL_modele" width="100%" /></p>
 
   ### 3.Circuit èléctronique
+  <p align="center"><img scr="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100% /></p>
+  <p align="center"><img scr="https://github.com/user-attachments/assets/0082bc6c-19ef-4404-a6f0-c41f3d6374d1" alt="RAMO3DL" width="100% /></p>
+   <p align="center"><img scr="" alt="RAMO3DL" width="100% /></p>
   ### 4. Codes
   ***Commande manuelle***
-  #include <Servo.h>
 
-// Déclaration des servos
-Servo servo_base;
-Servo servo_epaule;
-Servo servo_coude;
-Servo servo_poignet;
-Servo servo_pince;
 
-// Angles des servos
-int angle_base = 90;
-int angle_epaule = 90;
-int angle_coude = 90;
-int angle_poignet = 90;
-int angle_pince = 90;
-
-// Joysticks
-const int joystick_base = A0;
-const int joystick_epaule = A1;
-const int joystick_coude = A2;
-const int joystick_poignet = A3;
-const int joystick_pince = A4;
-
-void setup() {
-  // Attache des servos aux broches
-  servo_base.attach(9);
-  servo_epaule.attach(10);
-  servo_coude.attach(11);
-  servo_poignet.attach(12);
-  servo_pince.attach(6);
-
-  Serial.begin(9600);
-}
-
-void loop() {
-  int val_base = analogRead(joystick_base);
-  int val_epaule = analogRead(joystick_epaule);
-  int val_coude = analogRead(joystick_coude);
-  int val_poignet = analogRead(joystick_poignet);
-  int val_pince = analogRead(joystick_pince);
-
-  // Contrôle avec zone morte
-  if (val_base < 340) angle_base -= 4;
-  else if (val_base > 680) angle_base += 4;
-
-  if (val_epaule < 340) angle_epaule -= 5;
-  else if (val_epaule > 680) angle_epaule += 5;
-
-  if (val_coude < 340) angle_coude -= 5;
-  else if (val_coude > 680) angle_coude += 5;
-
-  if (val_poignet < 340) angle_poignet -= 5;
-  else if (val_poignet > 680) angle_poignet += 5;
-
-  if (val_pince < 340) angle_pince -= 3;
-  else if (val_pince > 680) angle_pince += 3;
-
-  // Limites des angles
-  angle_base = constrain(angle_base, 0, 180);
-  angle_epaule = constrain(angle_epaule, 0, 180);
-  angle_coude = constrain(angle_coude, 15, 165);
-  angle_poignet = constrain(angle_poignet, 15, 165);
-  angle_pince = constrain(angle_pince, 70, 100);
-
-  // Écriture des angles
-  servo_base.write(angle_base);
-  servo_epaule.write(angle_epaule);
-  servo_coude.write(angle_coude);
-  servo_poignet.write(angle_poignet);
-  servo_pince.write(angle_pince);
-
-  // Affichage pour debug
-  Serial.print(" / Base: "); Serial.print(angle_base);
-  Serial.print(" / Épaule: "); Serial.print(angle_epaule);
-  Serial.print(" / Coude: "); Serial.print(angle_coude);
-  Serial.print(" / Poignet: "); Serial.print(angle_poignet);
-  Serial.print(" / Pince: "); Serial.println(angle_pince);
-
-  delay(100);  // ralentir le mouvement pour plus de fluidité
-}
 
  ## VI. Licence
 Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU 
