@@ -8,6 +8,7 @@ Ce type de robot est composé de trois articulations : ***deux articulations rot
 
 Cela lui permet de réaliser des tâches de type prise avec des objets et de se déplacer dans une certaine zone restreinte de l'espace.
 <br><br><img align="center" src= "https://github.com/user-attachments/assets/ec1ecd6c-881a-4389-8f1f-4fbe2099ea83" alt="ROMA3DL_logo" width="100%" /><br><br>
+<br><br><img align="center" src= "https://github.com/user-attachments/assets/ec1ecd6c-881a-4389-8f1f-4fbe2099ea83" alt="ROMA3DL_logo" width="100%" /><br><br>
 ROMA3DL est un bras robotique à trois degrés de liberté conçu pour offrir une solution polyvalente en matière de manipulation d’objets. Il s’inscrit dans le cadre d’un projet de fin d’année destiné aux étudiants en deuxième année de classes préparatoires D'ESEO-France délocalisées au Togo au Lycée International Cours Lumière, combinant des aspects de conception mécanique, d’électronique et de programmation. C’est donc une synthèse des compétences acquises durant l’année qui a pour objectif principal de permettre aux étudiants d’explorer les concepts fondamentaux de la robotique et de l’automatisation en développant un système fonctionnel et interactif.
 <br>
 
