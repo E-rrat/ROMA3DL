@@ -88,7 +88,6 @@ Ce projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot ma
 <br>▶Concevoir avec une perspective de durabilité : Assurer que le robot est construit avec des matériaux durables et une conception qui permet des mises à jour faciles.</br>
 <br>▶Planifier pour l'évolutivité : Structurer le projet de manière à ce qu'il puisse être facilement amélioré ou modifié pour inclure plus de fonctionnalités ou s'adapter à différents usages.</br>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/e2a8b18f-4db2-48c2-af95-b43eda3030db" alt="RAMO3DL" width="100% /></p>
 
 ## III. Fonctionnalités
 <br>✅ **Commande vocale**  – Contrôle du bras par des ordres simples via Bluetooth.(A revoir)
