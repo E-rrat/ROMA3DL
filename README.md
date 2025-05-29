@@ -1,7 +1,7 @@
 # Conception et réalisation d'un robot manipulateur á trois degrés de liberté et à commande vocale (ROMA3DL)🦾
 
 # Description:
-Le projet ROMA3DL(Robot manipulateur á 3 dégrès de  liberté) a pour but de concevoir, fabriquer et piloter un robot manipulateur articulé possédant trois degrés de liberté. En robotique, un degré de liberté correspond à une direction indépendante de mouvement (comme une rotation ou une translation). Un bras robotisé avec 3 degrés de liberté peut donc effectuer des mouvements complexes dans un plan ou dans une partie de l'espace tridimensionnel.
+Le projet ***ROMA3DL***(Robot manipulateur á 3 dégrès de  liberté) a pour but de concevoir, fabriquer et piloter un robot manipulateur articulé possédant trois degrés de liberté. En robotique, un degré de liberté correspond à une direction indépendante de mouvement (comme une rotation ou une translation). Un bras robotisé avec 3 degrés de liberté peut donc effectuer des mouvements complexes dans un plan ou dans une partie de l'espace tridimensionnel.
 
 🦾 Ce que cela signifie :
 Ce type de robot est composé de trois articulations : ***deux articulations rotatives*** qui permettent de pivoter autour de l'axe Oz et Oy et ***une articulation de translation*** qui permet un mouvement linéaire suivant l'axe Ox, ou parfois une troisième rotation de la pince.
