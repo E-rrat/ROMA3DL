@@ -120,11 +120,11 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 ## V.  Déroulement 
   ### 1. Esquis
   
-<p align="left"><img src="https://github.com/user-attachments/assets/9c078148-df42-43bf-9e1f-611d65630f8c" alt="ROMA3DL_support" width="100%"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/9c078148-df42-43bf-9e1f-611d65630f8c" alt="ROMA3DL_support" width="80%"/></p>
 
- <p align="center"><img src="https://github.com/user-attachments/assets/6bef7af4-bcb3-4209-ac4b-f498a655eca0" alt="ROMA3DL_bras" width="100%"/></p>
+ <p align="center"><img src="https://github.com/user-attachments/assets/6bef7af4-bcb3-4209-ac4b-f498a655eca0" alt="ROMA3DL_bras" width="80%"/></p>
  
-  <p align="left"><img src="https://github.com/user-attachments/assets/41cef1cd-ff78-4d63-8d6e-4881f8ae9848"alt="ROMA3DL_repere" width="100%"/></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/41cef1cd-ff78-4d63-8d6e-4881f8ae9848"alt="ROMA3DL_repere" width="80%"/></p>
 
    Ces  images illustrent  les différentes composantes du bras mécanique :
 <br>Le bras:élément central assurant la liaison entre les avant-bras et le support de la pince.</br>
@@ -134,10 +134,10 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
    
    ### 2. Modèle 3D
 
- <p align="left"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL_modele" width="100%" /></p>
+ <p align="center"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL_modele" width="80%" /></p>
 
   ### 3.Circuit èléctronique
-  <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100% /></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="80% /></p>
                        
   ### 4. Codes
   ***Commande manuelle***
