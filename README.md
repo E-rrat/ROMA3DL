@@ -105,14 +105,16 @@ Le bras peut également être piloté à distance via une interface dédiée ré
 
 Le matériel utilisé pour la réalisation de ce projet peut etre répertorié dans le tableau ci-dessous:
 
-| **Systemes**            | **Materiel (arduino)**                           | **Utilité**                                                |
+| **Systemes**            | **Materielles **                           | **Utilité**                                                |
 |-------------------------|--------------------------------------------------|-------------------------------------------------------------|
 |🖥️**Microcontrôleur**    | Arduino Mega , Arduino Uno                       |Rélie les différents composants du circuit                  |
-|📟**Circuit intégré**    |Joysticks                                         |  Controle tous les servomoteurs avec une seule plaque      |
+|📟**Commande**    |Joysticks                                         |  Controle tous les servomoteurs avec une seule plaque      |
 |🦼**Moteur**             |   servomoteur MG90S,servomoteur MG996R           |Crée le mouvement et réduit la vitesse et l'augmente        |
 | 🔋**Baterrie**          | 14 volts et 9 volts                              | alimenter  le microcontroleur                              |            
 | 📳**module Bluetooth**  | HC-05                                            | Envoyer des commandes vocales depuis une application mobile|   
-
+| **Fusion 360** |        imprimante Pursa MK4      |   pour la  modelisation 3D  |
+ |**Liaison**  |     Cables       | Liaison entre composants |
+ |
 ## V.  Déroulement 
   ### 1. Esquis
 <p align="left"><img src="https://github.com/user-attachments/assets/9c078148-df42-43bf-9e1f-611d65630f8c" alt="ROMA3DL_support" width="100%"/></p>
