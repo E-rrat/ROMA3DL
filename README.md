@@ -134,10 +134,10 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
                        
   ### 4. Codes
   ***Commande manuelle***
- <p align="center"><img src="https://github.com/user-attachments/assets/d8809905-6674-4e25-b4d7-7803799383f8" alt="RAMO3DL" width="100%" /></p>
-  <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100%" /></p>
-   <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100%" /></p>
-    <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100%" /></p>
+ <p align="center"><img src="https://github.com/user-attachments/assets/d8809905-6674-4e25-b4d7-7803799383f8" alt="RAMO3DL" width="60%" /></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/7ddc3f4d-597c-4ce7-b8b5-1a5b86db7f62" alt="RAMO3DL" width="60%" /></p>
+   <p align="center"><img src="https://github.com/user-attachments/assets/8187b346-880d-4fa9-8b95-f9d914b45338" alt="RAMO3DL" width="60%" /></p>
+    <p align="center"><img src="https://github.com/user-attachments/assets/a4826753-190a-4a90-aa15-ce9b67407836" alt="RAMO3DL" width="60%" /></p>
 
  ## VI. Licence
 Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU 
