@@ -32,8 +32,10 @@ Le projet ROMA3DL est principalement destiné aux étudiants en deuxième année
   [1. Esquis](#1-Esquis)
   
   [2. modèle 3D](#2-Modèle-3D)
+  
+  [3. Circuit  èléctronique ](#3-Circuit-èléctronique)
  
-  [3. codes](#3-Codes)
+  [4. codes](#4-Codes)
 
 [VI. Licence](#vi-Licence)
 
@@ -113,7 +115,7 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 | 🔋**Baterrie**          | 14 volts et 9 volts                              | alimenter  le microcontroleur                              |            
 | 📳**module Bluetooth**  | HC-05                                            | Envoyer des commandes vocales depuis une application mobile|   
 | **Modélisation 3D** |        Fusion 360     |   pour la  modelisation 3D  |
- |**Impression 3D** |    imprimante Pursa MK4 , Bobine PLA      | Pour l'impression |
+ |**Impression 3D** |    imprimante Pursa MK4 , Bobine PLA      | Pour l'impression 3D |
  |
 ## V.  Déroulement 
   ### 1. Esquis
@@ -123,7 +125,7 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  
   <p align="left"><img src="https://github.com/user-attachments/assets/41cef1cd-ff78-4d63-8d6e-4881f8ae9848"alt="ROMA3DL_repere" width="100%"/></p>
 
-   Cette image illustre les différentes composantes du bras mécanique :
+   Ces  images illustrent  les différentes composantes du bras mécanique :
 <br>Le bras:élément central assurant la liaison entre les avant-bras et le support de la pince.</br>
 <br>Les avant-bras: structures allongées fixées au bras principal, servant de prolongement mécanique.</b 
 <br>Le support de la pince : pièce de fixation qui accueille le système de préhension.
@@ -133,8 +135,8 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 
  <p align="left"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL_modele" width="100%" /></p>
 
-  
-  ### 3. Codes
+  ### 3.Circuit èléctronique
+  ### 4. Codes
   > [!NOTE]
 > ### Problèmes & Solutions
 > Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
