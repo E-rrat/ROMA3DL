@@ -11,7 +11,7 @@ Souvent, deux articulations rotatives (qui permettent de pivoter autour d’un a
 Et une articulation de translation (qui permet un mouvement linéaire), ou parfois une troisième rotation.
 
 Cela lui permet de manipuler des objets, de se déplacer dans une certaine zone de l'espace (restreinte mais en 3D), et de réaliser des tâches de type prise, déplacement, rotation, etc.
-<img align="center" src= "https://github.com/user-attachments/assets/ec1ecd6c-881a-4389-8f1f-4fbe2099ea83" alt="ROMA3DL_logo" width="50%" /><br><br>
+<br><br><img align="center" src= "https://github.com/user-attachments/assets/ec1ecd6c-881a-4389-8f1f-4fbe2099ea83" alt="ROMA3DL_logo" width="50%" /><br><br>
 ROMA3DL est un bras robotique à trois degrés de liberté conçu pour offrir une solution polyvalente en matière de manipulation d’objets. Il s’inscrit dans le cadre d’un projet de fin d’année destiné aux étudiants en deuxième année de classes préparatoires, combinant des aspects de conception mécanique, d’électronique et de programmation.
 
 Le projet ROMA3DL est principalement destiné aux étudiants en deuxième année de classes préparatoires. Il s’agit d’un projet de fin d’année, c’est-à-dire une synthèse des compétences acquises durant l’année..L’objectif principal de ce projet est de permettre aux étudiants d’explorer les concepts fondamentaux de la robotique et de l’automatisation en développant un système fonctionnel et interactif.
