@@ -1,4 +1,4 @@
-# Concéption et rèalisation d'un robot manipulateur á trois dègrés de liberté et á commande vocale (ROMA3DL)🦾
+# Conception et rèalisation d'un robot manipulateur á trois dègrés de liberté et á commande vocale (ROMA3DL)🦾
 
 # Description:
 Le projet ROMA3DL( Robot manipulateur á 3 dégrès de  libértè )  a pour but de concevoir, fabriquer et piloter un robot manipulateur articulé possédant trois degrés de liberté (3DL). En robotique, un degré de liberté (DL) correspond à une direction indépendante de mouvement (comme une rotation ou une translation).Un bras robotisé avec 3 DL peut donc effectuer des mouvements complexes dans un plan ou dans une partie de l'espace tridimensionnel.
@@ -136,8 +136,8 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 
  <p align="center"><img src="https://github.com/user-attachments/assets/a4c42c1e-4e45-4b38-88c3-af5037b1adf9" alt="ROMA3DL_modele" width="50%" /></p>
 
-  ### 3.Circuit èléctronique
-  <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="50% /></p>
+  ### 3.Circuit électronique
+  <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="50%" /></p>
                        
   ### 4. Codes
   ***Commande manuelle***
