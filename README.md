@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-05-29 at 15 07 25](https://github.com/user-attachments/assets/d8809905-6674-4e25-b4d7-7803799383f8)# Conception et réalisation d'un robot manipulateur á trois degrés de liberté et à commande vocale (ROMA3DL)🦾
+# Conception et réalisation d'un robot manipulateur á trois degrés de liberté et à commande vocale (ROMA3DL)🦾
 
 # Description:
 Le projet ***ROMA3DL***(Robot manipulateur á 3 dégrès de  liberté) a pour but de concevoir, fabriquer et piloter un robot manipulateur articulé possédant trois degrés de liberté. En robotique, un degré de liberté correspond à une direction indépendante de mouvement (comme une rotation ou une translation). Un bras robotisé avec 3 degrés de liberté peut donc effectuer des mouvements complexes dans un plan ou dans une partie de l'espace tridimensionnel.
@@ -134,7 +134,7 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
                        
   ### 4. Codes
   ***Commande manuelle***
- <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100%" /></p>
+ <p align="center"><img src="https://github.com/user-attachments/assets/d8809905-6674-4e25-b4d7-7803799383f8" alt="RAMO3DL" width="100%" /></p>
   <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100%" /></p>
    <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100%" /></p>
     <p align="center"><img src="https://github.com/user-attachments/assets/a79ec248-ee8a-40f8-b851-e9fbba729f04" alt="RAMO3DL" width="100%" /></p>
