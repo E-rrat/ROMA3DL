@@ -137,44 +137,89 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 
   ### 3.Circuit èléctronique
   ### 4. Codes
-  > [!NOTE]
-> ### Problèmes & Solutions
-> Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
-> - Probleme d'adaptabiliter du code entre bluetooth , la commande vocale, le joystik 
-> - Adaptabiliter du code  et du bras
-> -.....
-> - .....
->  ### Pendant la conception du circuit :
-> -.....
-> - .....
+  ***Commande manuelle***
+  #include <Servo.h>
 
-  > [!WARNING]
->  ### Pendant la conception du circuit :
-> - ....
-> -......
-> - .....
+// Déclaration des servos
+Servo servo_base;
+Servo servo_epaule;
+Servo servo_coude;
+Servo servo_poignet;
+Servo servo_pince;
 
-  > [!TIP]
-> Pour résoudre ces problèmes, nous avons "innover" et fait les tests nécessaires avec l'Arduino UNO étant donné les nombreuses similitudes entre cette carte et l'arduino NANO. Quant aux pièces, nous avons limé les contours pour pouvoir placer le DHT22 et utiliser le pistolet à colle pour fixer les servomoteurs.
-[!NOTE]
-> ### Problèmes & Solutions
-> Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
-> **Pendant la modélisation 3D** :
-> -
+// Angles des servos
+int angle_base = 90;
+int angle_epaule = 90;
+int angle_coude = 90;
+int angle_poignet = 90;
+int angle_pince = 90;
 
-> [!WARNING]
-> **Après la modélisation 3D** :
-> - 
-> [!NOTE]
-> **Pendant la conception du circuit** :
-> La longueur des fils qui etaient trop court
-> La faible tension des piles ( probleme d'alimentation)
-> vitesse incontroler des servo-moteur
-> 
-> [!TIP]
-> Pour résoudre ces problèmes, nous avons "innover" et fait les tests nécessaires avec l'Arduino UNO étant donné les nombreuses similitudes entre cette carte et l'arduino NANO. Quant aux pièces, nous avons limé les contours pour pouvoir placer le DHT22 et utiliser le pistolet à colle pour fixer les servomoteurs.
+// Joysticks
+const int joystick_base = A0;
+const int joystick_epaule = A1;
+const int joystick_coude = A2;
+const int joystick_poignet = A3;
+const int joystick_pince = A4;
 
-## VI. Licence
+void setup() {
+  // Attache des servos aux broches
+  servo_base.attach(9);
+  servo_epaule.attach(10);
+  servo_coude.attach(11);
+  servo_poignet.attach(12);
+  servo_pince.attach(6);
+
+  Serial.begin(9600);
+}
+
+void loop() {
+  int val_base = analogRead(joystick_base);
+  int val_epaule = analogRead(joystick_epaule);
+  int val_coude = analogRead(joystick_coude);
+  int val_poignet = analogRead(joystick_poignet);
+  int val_pince = analogRead(joystick_pince);
+
+  // Contrôle avec zone morte
+  if (val_base < 340) angle_base -= 4;
+  else if (val_base > 680) angle_base += 4;
+
+  if (val_epaule < 340) angle_epaule -= 5;
+  else if (val_epaule > 680) angle_epaule += 5;
+
+  if (val_coude < 340) angle_coude -= 5;
+  else if (val_coude > 680) angle_coude += 5;
+
+  if (val_poignet < 340) angle_poignet -= 5;
+  else if (val_poignet > 680) angle_poignet += 5;
+
+  if (val_pince < 340) angle_pince -= 3;
+  else if (val_pince > 680) angle_pince += 3;
+
+  // Limites des angles
+  angle_base = constrain(angle_base, 0, 180);
+  angle_epaule = constrain(angle_epaule, 0, 180);
+  angle_coude = constrain(angle_coude, 15, 165);
+  angle_poignet = constrain(angle_poignet, 15, 165);
+  angle_pince = constrain(angle_pince, 70, 100);
+
+  // Écriture des angles
+  servo_base.write(angle_base);
+  servo_epaule.write(angle_epaule);
+  servo_coude.write(angle_coude);
+  servo_poignet.write(angle_poignet);
+  servo_pince.write(angle_pince);
+
+  // Affichage pour debug
+  Serial.print(" / Base: "); Serial.print(angle_base);
+  Serial.print(" / Épaule: "); Serial.print(angle_epaule);
+  Serial.print(" / Coude: "); Serial.print(angle_coude);
+  Serial.print(" / Poignet: "); Serial.print(angle_poignet);
+  Serial.print(" / Pince: "); Serial.println(angle_pince);
+
+  delay(100);  // ralentir le mouvement pour plus de fluidité
+}
+
+ ## VI. Licence
 Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU 
 telle que publiée par la Free Software Foundation ; soit la version 3 de la licence, soit (à votre choix) toute version ultérieure.
 
