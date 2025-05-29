@@ -152,6 +152,23 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 
   > [!TIP]
 > Pour résoudre ces problèmes, nous avons "innover" et fait les tests nécessaires avec l'Arduino UNO étant donné les nombreuses similitudes entre cette carte et l'arduino NANO. Quant aux pièces, nous avons limé les contours pour pouvoir placer le DHT22 et utiliser le pistolet à colle pour fixer les servomoteurs.
+[!NOTE]
+> ### Problèmes & Solutions
+> Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
+> **Pendant la modélisation 3D** :
+> -
+
+> [!WARNING]
+> **Après la modélisation 3D** :
+> - 
+> [!NOTE]
+> **Pendant la conception du circuit** :
+> La longueur des fils qui etaient trop court
+> La faible tension des piles ( probleme d'alimentation)
+> vitesse incontroler des servo-moteur
+> 
+> [!TIP]
+> Pour résoudre ces problèmes, nous avons "innover" et fait les tests nécessaires avec l'Arduino UNO étant donné les nombreuses similitudes entre cette carte et l'arduino NANO. Quant aux pièces, nous avons limé les contours pour pouvoir placer le DHT22 et utiliser le pistolet à colle pour fixer les servomoteurs.
 
 ## VI. Licence
 Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU 
