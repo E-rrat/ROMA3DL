@@ -29,7 +29,9 @@ ROMA3DL est un bras robotique à trois degrés de liberté conçu pour offrir un
   
   [3. Circuit  èléctronique ](#3-Circuit-èléctronique)
  
-  [4. codes](#4-Codes)
+  [4. Codes](#4-Codes)
+  
+  [5.Conclusion ](#5-Conclusion)
 
 [VI. Licence](#vi-Licence)
 
@@ -83,7 +85,7 @@ Ce projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot ma
 
 
 ## III. Fonctionnalités
-<br>✅ **Commande vocale**  – Contrôle du bras par des ordres simples via Bluetooth.(A revoir)
+<br>✅ **Commande vocale**  – Contrôle du bras par des ordres simples via Bluetooth.
 <br>
 Le bras robotisé est doté d’un système de reconnaissance vocale permettant à l'utilisateur de le contrôler par des commandes simples et intuitives. Grâce à la connectivité Bluetooth, les ordres vocaux sont transmis en temps réel à l’unité centrale du bras, qui les interprète pour exécuter des actions pour saisir, effectuer des rotations et des translations. Cette fonctionnalité rend le dispositif particulièrement accessible aux personnes à mobilité réduite ou dans des contextes où les mains ne peuvent pas être utilisées.
 </br>
@@ -91,7 +93,7 @@ Le bras robotisé est doté d’un système de reconnaissance vocale permettant 
 <br>
 La pince robotisée située à l'extrémité du bras est équipée d'un servomoteur. Avec le code implanté dans l'arduino, la vitesse du  servomoteur utilisé est plus lente qu'un servomoteur d'origine. Ceci permet donc d'adapter automatiquement la force de préhension selon la nature de l'objet à manipuler, évitant ainsi toute casse ou glissement. Cette précision rend possible la saisie d’objets variés, allant de petits éléments fragiles à des pièces plus robustes, et permet une manipulation stable et sécurisée.
 </br>
-<br>✅ **Contrôle à distance**  – Pilotage via application mobile ou PC.(A revoir)
+<br>✅ **Contrôle à distance**  – Pilotage via application mobile ou PC.
 <br>
 Le bras peut également être piloté à distance via une interface dédiée réalisée à partir de flutter et disponible sur ordinateur. L'utilisateur peut envoyer des commandes manuelles ou prédéfinies, et ajuster les paramètres de mouvement selon ses besoins. Cette fonctionnalité est idéale pour les tâches nécessitant une intervention à distance, comme en milieu médical, industriel ou dans les environnements hostiles.
 </br>
@@ -137,10 +139,21 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  <p align="center"><img src="https://github.com/user-attachments/assets/d8809905-6674-4e25-b4d7-7803799383f8" alt="RAMO3DL" width="60%" /></p>
  <p align="center"><img src="https://github.com/user-attachments/assets/a4826753-190a-4a90-aa15-ce9b67407836" alt="RAMO3DL" width="60%" /></p>
    <p align="center"><img src="https://github.com/user-attachments/assets/8187b346-880d-4fa9-8b95-f9d914b45338" alt="RAMO3DL" width="60%" /></p>
+   
+  ### 5.conclusion 
+  > ### Problèmes & Solutions
+> Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
+> Lors de la modélisation l’un des plus grands défis était le dimensionnement qui n’était pas exacte ce qui rendait les composants défectueux pour palier au problème on effectuait des test avec de petites pièces imprimés ce qui évitait de perdre du temps avec l’impression d’un composant entier qui prenait plusieurs heures pour au final se rendre compte qu’une dimension n’était pas bonne et qu’il fallait le réimprimer.
+> Lors du prototypage la stabilité n’était pas optimal pour résoudre le problème on a élevé le remplissage des composants formant le bas du bras manipulateur et laisser ceux formant le haut a un remplissage plus faible   
+> Il ya eu l'utilisation de flutter qu'on a finalement laissé car la commande vocale ne fonctionnait pas et flutter n'était pas vraiment adapté pour notre projet
+> Un autre défis a été dans la réflexion globale quant à la forme de chaque composants et à l'ensemble après assemblage avec différents facteurs à bien prendre en compte comme le poids, sa répartition ainsi que la solidité.
+>L’un des plus gros problème rencontré était au niveau de la pince les cylindres censés supporter les mâchoires de la pince était très fragile il a donc fallu repenser la manière de supporter les mâchoires. Finalement de plus petites pièces facilement imprimables on était conçu leur remplissage a été mit à 100% pour assurer plus de solidité. 
+
+
 
  ## VI. Licence
-Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU 
-telle que publiée par la Free Software Foundation ; soit la version 3 de la licence, soit (à votre choix) toute version ultérieure.
+Ce programme est un logiciel libre . vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU 
+telle que publiée par la Free Software Foundation , soit la version 3 de la licence, soit (à votre choix) toute version ultérieure.
 
 ## VII. Contributions
  <br>Mr Marc Mino-Matot : Dans l'obtention des materiaux</br>
