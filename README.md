@@ -89,6 +89,7 @@ Ce projet, baptisé ***ROMA3DL***, vise à concevoir et à réaliser un robot ma
 <br>
 Le bras robotisé est doté d’un système de reconnaissance vocale permettant à l'utilisateur de le contrôler par des commandes simples et intuitives. Grâce à la connectivité Bluetooth, les ordres vocaux sont transmis en temps réel à l’unité centrale du bras, qui les interprète pour exécuter des actions pour saisir, effectuer des rotations et des translations. Cette fonctionnalité rend le dispositif particulièrement accessible aux personnes à mobilité réduite ou dans des contextes où les mains ne peuvent pas être utilisées.
 </br>
+<p align="center"><img src="https://github.com/user-attachments/assets/cb1f8c2f-1149-4e9e-ac32-528a232af968" alt="ROMA3DL_support" width="100%"/></p>
 <br>✅ **Saisie et manipulation d’objets** – Pince robotisée avec capteurs pour ajuster la prise.
 <br>
 La pince robotisée située à l'extrémité du bras est équipée d'un servomoteur. Avec le code implanté dans l'arduino, la vitesse du  servomoteur utilisé est plus lente qu'un servomoteur d'origine. Ceci permet donc d'adapter automatiquement la force de préhension selon la nature de l'objet à manipuler, évitant ainsi toute casse ou glissement. Cette précision rend possible la saisie d’objets variés, allant de petits éléments fragiles à des pièces plus robustes, et permet une manipulation stable et sécurisée.
@@ -140,6 +141,11 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
  <p align="center"><img src="https://github.com/user-attachments/assets/a4826753-190a-4a90-aa15-ce9b67407836" alt="RAMO3DL" width="60%" /></p>
    <p align="center"><img src="https://github.com/user-attachments/assets/8187b346-880d-4fa9-8b95-f9d914b45338" alt="RAMO3DL" width="60%" /></p>
    
+   ***Commande vocale***
+   <p align="center"><img src="https://github.com/user-attachments/assets/f09d88e0-ac17-4383-be63-cf9d19147a4d" alt="RAMO3DL" width="60%" /></p>
+   
+     <p align="center"><img src="https://github.com/user-attachments/assets/87566fab-75ba-46b7-97a1-b56e0e39e74b" alt="RAMO3DL" width="60%" /></p>
+   
   ### 5.conclusion 
   > ### Problèmes & Solutions
 > Lors de la réalisation de ce projet, nous avons eu à faire face à une flopée de problèmes à savoir :
@@ -148,7 +154,8 @@ Le matériel utilisé pour la réalisation de ce projet peut etre répertorié d
 > Il ya eu l'utilisation de flutter qu'on a finalement laissé car la commande vocale ne fonctionnait pas et flutter n'était pas vraiment adapté pour notre projet
 > Un autre défis a été dans la réflexion globale quant à la forme de chaque composants et à l'ensemble après assemblage avec différents facteurs à bien prendre en compte comme le poids, sa répartition ainsi que la solidité.
 >L’un des plus gros problème rencontré était au niveau de la pince les cylindres censés supporter les mâchoires de la pince était très fragile il a donc fallu repenser la manière de supporter les mâchoires. Finalement de plus petites pièces facilement imprimables on était conçu leur remplissage a été mit à 100% pour assurer plus de solidité. 
-
+> Alimentation instable
+> Les montages fragiles , en effet un faux pas peut casser le squelette du bras (modélisation) ou empecher le circuit de fonctionner
 
 
  ## VI. Licence
